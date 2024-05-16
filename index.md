@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-rank: 1
+nav_order: 1
 ---
 
 # Welcome to the Predictive Brain Lab Wiki!
