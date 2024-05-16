@@ -1,4 +1,6 @@
-title: Just the Docs Template
+title: Predictive Brain Lab Wiki
+logo: /images/pred-lab-logo.png
+favicon_ico: /images/pbl_logo_fmri_white.ico
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
@@ -6,3 +8,9 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
