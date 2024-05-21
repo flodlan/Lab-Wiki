@@ -112,3 +112,18 @@ The following three links are examples of pre-registered studies in the lab usin
 * Matthias Fritsche - [The role of feature-based attention for serial dependence in perceptual decision making](https://osf.io/q7gj3/)
 * Chuyao Yan - [Predicting groups of objects in the visual ventral stream](https://osf.io/s59p6)
 * Jonas Karolis Degutis - [Laminar fMRI at 3T: A replication attempt of top-down and bottom-up laminar activity in the early visual cortex](https://osf.io/txuye/)
+
+
+# Internal Service Roles (Guidelines)
+
+As part of the Predictive Brain Lab, various roles need to be fulfilled to ensure a lively and stimulating lab experience. These roles involve the organization of the (digital) resources and group activities. In this section of the WIKI we will provide some guidelines on the responsibilities linked to each position. 
+
+To see who is currently responsible for each role, click [here](https://docs.google.com/spreadsheets/d/1W09KvN9FVWWYBkcqGhwcD5iK2kIDYqtECI7Z_KV7foc/edit#gid=0). Some of these roles will involve more effort, so multiple researchers will be assigned to them.
+
+
+### NEED TO FIX THE LINKS TO THE FOLLOWING
+* [Chairing the AI Club](/int-service-roles/ai-chair.md)
+* [Organizing the Lab Retreat](/int-service-roles/lab-retreat.md)
+* [Yearly Lab Evaluation](/int-service-roles/lab_eval.md)
+* [Joint Lab Meetings](/int-service-roles/joint-lab-meet.md)
+* 
