@@ -6,12 +6,12 @@ nav_order: 1
 ---
 
 ## Creating Figures
-Eye-catching figures and fonts do not onlu facilitate communication but imrpove the experience of listening to a presentation or reading a paper! Mastering the skill of creating visually appealing figures directly from your code editor (Python, MatLab, R) not only saves you time but also promotes reproducibility in your analyses!
+Eye-catching figures and fonts do not only facilitate communication but improve the experience of listening to a presentation or reading a paper! Mastering the skill of creating visually appealing figures directly from your code editor (Python, MatLab, R) not only saves you time but also promotes reproducibility in your analyses!
 
 ### Generating Figures
 Various resources are available for learning how to create figures from your data. Below, we'll highlight those tailored to the three main programs used by lab members: **Python, R, and Matlab**. (note: _if you are new to programming, check the [Technical Help](./technical_help.md) section, we highlight resources to learn how to code_)
 
-Nonetheless, there are notions that are important to keep in mind regardless of the software used for your analyses. [Here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) is a concise paper with ten important considerations to keep in mind when generating figures.
+Importantly, there are  notions that you should always keep in mind regardless of the specific software being used for generating figures. In [this paper]((https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)), their authors highlight ten fundamental considerations when creating figures for scientific communication. 
 
 **MatLab Resources**
 
@@ -45,7 +45,7 @@ Important to note is that these two resources are mostly paid (CodeAcademy has s
 
 ### Editing Figures for Manuscripts
 
-Small tweaks might be needed in your code generated figures before they are publication ready. Where do you generate images visualizing your experimental procedure? Here is software that will do the job well for you:
+Small tweaks might be needed in your code generated figures before they are publication ready. You might also wonder where you can generate images visualizing your experimental procedure. Here is software that will do both of these jobs well for you:
 
 * [**Adobe Illustrator**](https://www.adobe.com/nl/products/illustrator.html) (paid software)
 _How to get it?_ You can have it installed on your office PC (just ask the TG). If you wish to have it on your own computer, check surfspot (https://www.surfspot.nl/). Sign up with your RU account on surfspot, and you’ll be able to get Adobe Creative Cloud service by paying only ~20 euros per year.
