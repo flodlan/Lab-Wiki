@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-# Science Communication: Communicating Your Research Findings
+# Science Communication
 {: .no_toc }
 
 
