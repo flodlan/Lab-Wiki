@@ -40,4 +40,4 @@ Here you will find some technical guides (e.g. how to use the cluster), as well 
 
 Do you have a question? Did you find outdated information? Do you have a resource you would like to share with the research group?
 
-**See [here]({% link documents/update_wiki.md %})on how to contribute to the wiki!**
+**See [here]({% link documents/update_wiki.md %}) on how to contribute to the wiki!**
