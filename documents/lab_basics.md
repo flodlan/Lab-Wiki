@@ -2,6 +2,7 @@
 layout: default
 title: Lab Basics
 nav_order: 2
+has_children: true
 ---
 This section covers common research practices within the lab. For a general introduction to our research group, you might want to look at our lab handbook[INSERT LINK WHEN READY].
 
