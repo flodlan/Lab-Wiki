@@ -13,8 +13,8 @@ color_scheme: nil
 
 callouts_level: quiet # or loud
 callouts:
-  warning:
-    title: Warning
+  important:
+    title: Important
     color: red
 
 kramdown:
