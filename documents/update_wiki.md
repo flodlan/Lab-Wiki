@@ -1,3 +1,8 @@
+---
+layout: default
+title: Updating the Wiki
+---
+
 # Updating the Wiki
 
 This page provides a _step-by-step_ on how to contribute to this wiki repository. 
