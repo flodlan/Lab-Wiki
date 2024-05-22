@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Updating the Wiki
+parent: lab_basics
 ---
 
 # Updating the Wiki
