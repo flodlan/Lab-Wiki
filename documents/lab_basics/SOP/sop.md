@@ -2,6 +2,7 @@
 layout: default
 title: Standard Operating Procedures
 parent: Lab Basics
+has_children: true
 nav_order: 1
 ---
 
