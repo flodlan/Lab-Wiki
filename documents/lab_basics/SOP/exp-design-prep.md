@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Preparing Experimental Designs
-parent: Standard Operating Procedure
+parent: Standard Operating Procedures (SOP)
 grand_parent: Lab Basics
 nav_order: 1
 ---
