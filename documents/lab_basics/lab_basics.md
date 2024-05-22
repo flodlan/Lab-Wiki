@@ -3,7 +3,6 @@ layout: default
 title: Lab Basics
 nav_order: 2
 has_children: true
-permalink: documents/lab_basics
 ---
 
 # Lab Basics
