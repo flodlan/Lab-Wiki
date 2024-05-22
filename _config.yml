@@ -16,6 +16,9 @@ callouts:
   important:
     title: Important
     color: red
+  note:
+    title: Note
+    color: purple
 
 kramdown:
   syntax_highlighter_opts:
