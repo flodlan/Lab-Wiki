@@ -4,6 +4,11 @@ title: How To Markdown
 nav_exclude: true
 ---
 
+
+### To learn how to use each function, go to the `.md` script and see how to write it. This document allows you to visualize all the different possibilities you can have when using Markdown language. 
+
+## How to Markdown
+
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
 
 <script>
