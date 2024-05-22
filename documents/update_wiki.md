@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Updating the Wiki
-parent: Lab Basics
-nav_order: 1
+nav_exclude: true
 ---
 
 # Updating the Wiki
