@@ -48,4 +48,3 @@ The lab retreat is a good moment for a group picture (like the one below!).
 
 ![PBL2024](./DSCF4695.JPG)
 
-Smile :)
