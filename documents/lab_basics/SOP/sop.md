@@ -1,3 +1,10 @@
+---
+layout: default
+title: Standard Operating Procedures
+parent: Lab Basics
+nav_order: 1
+---
+
 # Standard Operating Procedures (SOP)
 The Predictive Brain Lab has adopted standarized procedures for designing experiments and processing data for several years now. The employment of **standard operating procedures (SOP)** has three main advantages over individualized pipelines:
 1. They provide new lab members with easily understandable and expandable templates for their research
