@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons Child Page
+title: Preparing Experimental Designs
 parent: Standard Operating Procedure
 grand_parent: Lab Basics
 nav_order: 1
