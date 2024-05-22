@@ -4,8 +4,8 @@ title: How To Markdown
 nav_exclude: true
 ---
 
-
-### To learn how to use each function, go to the `.md` script and see how to write it. This document allows you to visualize all the different possibilities you can have when using Markdown language. 
+{: .warning }
+> To learn how to use each function, go to the `.md` script and see how to write it. This document allows you to visualize all the different possibilities you can have when using Markdown language. Click [here](https://github.com/PauloOrtizF/PBL-Wiki/blob/main/documents/how-to-markdown.md) to re-direct you to the script. 
 
 ## How to Markdown
 
