@@ -9,8 +9,9 @@ nav_order: 3
 ## Preregistration
 For the Predictive Lab's stance on Open Science practices and preregistration please refer to our handbook [INSERT LINK WHEN READY]
 In the lab we use two different platforms to preregister our studies:
-1. https://aspredicted.org/
-2. https://osf.io/
+1. [As Predicted](https://aspredicted.org/)
+2. [Open Science Framework (OSF)](https://osf.io/)
+
 with **As Predicted** following a specific structure and **OSF** providing more freedom to your structure. 
 
 The current page provides you with guidance on the information you might want to include in your pre-registration document: 
