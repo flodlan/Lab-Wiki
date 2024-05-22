@@ -2,7 +2,7 @@
 ---
 layout: default
 title: Preregistration
-parent: Standard Operating Procedures (SOP)
+parent: Standard Operating Procedures
 grand_parent: Lab Basics
 nav_order: 3
 ---
