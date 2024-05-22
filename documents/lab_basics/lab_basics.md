@@ -9,5 +9,8 @@ permalink: documents/lab_basics
 # Lab Basics
 {: .no_toc }
 
-CSS utility classes come in handy when you want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+If you are new to the lab, or have more general admin questions, this is the place to start. You can find a guide to the lab, guides for more general procedures and some useful links to Donders Institute resources.
+
+For a general introduction to our research group, you might want to look at our lab handbook[INSERT LINK WHEN READY].
+
 {: .fs-6 .fw-300 }
