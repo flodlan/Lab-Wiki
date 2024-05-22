@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project Proposal Meeting (PPM)
-parent: Standard Operating Procedure
+parent: Standard Operating Procedures (SOP)
 grand_parent: Lab Basics
 nav_order: 2
 ---
