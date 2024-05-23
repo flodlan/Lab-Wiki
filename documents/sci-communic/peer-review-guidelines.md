@@ -29,7 +29,7 @@ This page outlines the most important points to focus on when peer reviewing ano
 
 * Logical step from research problem to methodological approach clear?
 * Any steps in the methods difficult to understand – or seem erroneous?
-* Is the design understandable by looking only at the illustration (refer them to the [figures](./science_communication.md) section of wiki otherwise)?
+* Is the design understandable by looking only at the illustration (refer them to the [figures]({% link documents/sci-communic/creating-figures.md %}) section of wiki otherwise)?
 
 ### Results
 
