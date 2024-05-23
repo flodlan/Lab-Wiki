@@ -10,7 +10,7 @@ nav_order: 2
 There is a variety of software being used to create experiments for neuroscience. Most of the time, you will  likely use the same programs that you were taught during your time as a graduate student or PhD candidate. In the Predictive Brain Lab, we predominantly make use of two programs:
 
 1. [Pyschtoolbox](http://psychtoolbox.org/) - free set of MATLAB functions to create neuroscience experiments. Most members of the lab use this and can provide you with help if needed. 
-This [webiste](https://peterscarfe.com/ptbtutorials.html) contains a variety of tutorials to get familiar with coding different types of experimental paradigms. 
+This [website](https://peterscarfe.com/ptbtutorials.html) contains a variety of tutorials to get familiar with coding different types of experimental paradigms. 
 
 2. [PsychoPy](https://www.psychopy.org/) - free set of Pyhton functions to create psychological and neuroscience experiments. A few members of the lab are familiar with this software and can give help if needed. 
 The PsychoPy [website](https://psychopy.org/documentation.html) contains tutorials and open source code you can look at to get inspired. 
