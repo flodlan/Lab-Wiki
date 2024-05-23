@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Behavioral Labs
-parent: Behavioral Testing Software
+title: Behavioral Testing Software
+parent: Behavioral Testing 
 nav_order: 2
 ---
 
