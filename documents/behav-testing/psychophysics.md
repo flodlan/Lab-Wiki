@@ -7,7 +7,7 @@ nav_order: 3
 
 # Psychophysics
 
-Psychophysics concerns itself with the relationship between physical properties of stimuli and the sensations and perceptions produced by them. In this section, we provide guidance on how to implement psychophysical procedures that might use in your experiments. We will provide code examples as well as literature for you to consult in case of need. 
+Psychophysics concerns itself with the relationship between physical properties of stimuli and the sensations and perceptions produced by them. In this section, we provide guidance on how to implement psychophysical procedures that you might use in your experiments. We will provide code examples as well as literature for you to consult in case of need. 
 
 ## What Do We Use Psychophysics For?
 * To estimate thresholds, just-noticeable differences (JND), point of subjective equality (PSE), etc. for every subject.
