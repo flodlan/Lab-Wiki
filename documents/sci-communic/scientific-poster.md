@@ -31,5 +31,7 @@ Here are some examples from lab members:
 * [Patricia Romero Verdugo](http://predictivebrain.wikidot.com/local--files/communicating-findings/Patricia%20Romero%20Verdugo%20-%20Choice%20enhances%20curiosity)
 
 ### Printing a Poster
-[INSERT INFORMATION AFTER ASKING ONE OF THE LAB MEMBERS]
+To print a poster, this can be done through the Post & Print services of the Radboud University. This [page](https://www.ru.nl/en/services/services-and-facilities/shops/post-print) contains more information about their services. You can either send your work to them through email or bring a USB stick containing your file. Remember to bring your cost centre number or add it in your email when submitting a request. 
+
+The location of Post & Print can be found [here](https://www.ru.nl/en/about-us/the-campus/buildings-and-spaces/erasmus-building/post-print). 
 
