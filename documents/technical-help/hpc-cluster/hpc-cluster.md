@@ -18,4 +18,10 @@ Nonetheless, we will list resources that will be helpful when trying to work wit
 Most of the time, scientific computations require the usage of a lot of data and computing power. A major goal for any scientist is to be able to carry out these processes as fast as possible. A way this can be achieved is through parallel computations: using multiple computers at the same time to work on your data. The DCCN has a High-Performance Cluster (HPC) which allows researchers to do exactly this. **This wiki page is dedicated to providing you with information about the cluster and how to use it effectively.** 
 
 {: .important }
->  The DCCN is transitioning on the software used for the cluster, so this page will contain information on both the current way of using it (Torque) and the future software manager (SLURM). 
+>  The DCCN is transitioning on the software used for the cluster, so this page will contain information on both the current way of using it (Torque) and the future software manager (SLURM).
+
+
+## Contact
+If you run into any problems, you can contact the [TG help desk](mailto:mailto:helpdesk@fcdonders.ru.nl). They are always available to help with technical questions. 
+
+Every year, a PhD student takes on the PhD job to help researchers at the DCCN with any cluster problems they might have. Especifically, anything related to running specific software used for neuroimaging analyses on the cluster. The current person responsible for this is Lennart Oblong (Room 02.284), but always double check as these jobs are constantly changing. 
