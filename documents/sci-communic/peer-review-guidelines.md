@@ -7,7 +7,7 @@ nav_exclude: true
 # Peer Review Guidelines
 This page outlines the most important points to focus on when peer reviewing another lab member's work. This is only a rough guideline as the specific structure of the paper will highly depend on the requirements of the journal and the topic of your fellow researcher. 
 
-**Important to keep in mind** is that the goal of the internal peer review process is to assist your lab member in improving their paper, rather than judging or criticizng their work. 
+**Important to keep in mind** is that the goal of the internal peer review process is to assist your lab member in improving their paper, rather than judging or criticizing their work. 
 
 ## Questions Linked to Specific Sections of the Paper
 ### Abstract 
