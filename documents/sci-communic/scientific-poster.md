@@ -27,8 +27,8 @@ Commonly used software for creating posters includes Adobe Illustrator, InDesign
 Here are some examples from lab members:
 
 * [Micha Heilbron](https://pbs.twimg.com/media/D2XDExMUcAAW3rV.jpg:large)
-* [Marisha Manahova - Familiarity and Expectation](http://predictivebrain.wikidot.com/local--files/communicating-findings/Mariya%20Manahova%20Familiarity%20and%20Expectation)
-* [Patricia Romero Verdugo](http://predictivebrain.wikidot.com/local--files/communicating-findings/Patricia%20Romero%20Verdugo%20-%20Choice%20enhances%20curiosity)
+* [Marisha Manahova - Familiarity and Expectation](./Mariya_Manahova_Poster.pdf)
+* [Patricia Romero Verdugo](./Patricia_Romero_Verdugo_Poster.pdf)
 
 ### Printing a Poster
 To print a poster, this can be done through the Post & Print services of the Radboud University. This [page](https://www.ru.nl/en/services/services-and-facilities/shops/post-print) contains more information about their services. You can either send your work to them through email or bring a USB stick containing your file. Remember to bring your cost centre number or add it in your email when submitting a request. 
