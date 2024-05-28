@@ -26,7 +26,7 @@ There are two ways of accessing one of the access nodes: a **command line interf
 ### Command Line Access (CLI)
 The command line access allows you to connect with one of the access nodes using a terminal interface (i.e., you will be using the **access node** computer only by typing in commands in the terminal).  From there you can access all of your user data present in the DCCN cluster as well as send your analysis to the HPC. 
 
-To effectively use the terminal, you will have to learn how to navigate it using certain commands (using LINUX). If you are not familiar with this, check [here](#linux) for resources to learn how to do it.
+To effectively use the terminal, you will have to learn how to navigate it using certain commands (using LINUX). If you are not familiar with this, check [here]({% link documents/technical-help/hpc-cluster/linux-bash-scripting.md %}) for resources to learn how to do it.
 
 #### How to Connect to the CLI?
 
