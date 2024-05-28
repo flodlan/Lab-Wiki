@@ -7,9 +7,10 @@ nav_order: 2
 ---
 
 ## Linux and Bash (Shell) Basics
-Before describing how to use the HPC cluster it is important that you become familiar with Linux and Bash commands, as this is the language you will be using to send in your work.  If you are familiar with both of them, feel free to skip it and go to the section: [Using the HPC Cluster](#using-the-cluster).
+Before describing how to use the HPC cluster it is important to familiarize yourself with Linux and Bash commands, as this is the language you will be using to send in your work.  If you are proficient with both of them, feel free to skip it and go to the section: [Using the HPC Cluster]({% link documents/technical-help/hpc-cluster/using-hpc-cluster.md %}).
 
-_Note_: if you are working from a MacBook terminal, the default language will not be bash but a similar language called **zsh** (Z shell). Look online at the differences between both. You can still use bash if you use the terminal on the VNC GUI or by changing the language on your Macbook from zsh to bash. 
+{: .note }
+> If you are working from a MacBook terminal, the default language will not be bash but a similar language called **zsh** (Z shell). Look online at the differences between both. You can still use bash if you use the terminal on the VNC GUI or by changing the language on your Macbook from zsh to bash. 
 
 A very fun, easy-to-understand and useful resource to learn Linux, CLI and Bash is this series of [comics by Julia Evans](https://wizardzines.com/comics/). It simplifies concepts and helps understand how to use these tools. 
 
@@ -27,13 +28,13 @@ If you want to get some hands-on practice with Linux systems before using them i
 ### Bash and Zsh (Shell)
 It is not very simple to describe what bash is. However, understanding it thoroughly is not fundamental to be able to use it. In simple terms, bash or zsh are programming languages tightly integrated within the operating system (OS). Bash is both a **command-line interface (CLI)** and a **scripting language**, allowing repetitive tasks to be done automatically and quickly. With the proper commands, it can repeat tasks with or without some modification as many times as we want.
 
-![Shell](/images/shell_illustration.png)
+![Shell](./shell_illustration.png)
 
 Your computer is usually organized in the manner shown in the figure above. Most of the time, users interact with applications (_e.g.,_ MATLAB) that directly connects them to the kernel and hardware without having to directly specify what to do (_ie.,_ you interact with the GUI of the app). **By using bash or zsh, you tell the kernel directly how you want your data to be processed**. While a GUI presents you with choices to select, CLI choices are not automatically presented to you – **we must learn commands!**
 
 Familiarity with the shell (bash or zsh) is near essential to run a variety of specialized tools and resources including high-performance computing (HPC) systems. Thus, being able to interact with the shell is becoming a necessary skill for (data) science. 
 
-![What_Shell](/images/what_is_shell.png)
+![What_Shell](./what_is_shell.png)
 
 In very simple terms: bash says _“Give me input from the terminal, I will process that input, tell the kernel what to do, and send output somewhere for you”._
 
@@ -71,13 +72,13 @@ The reason why these are helpful is because you can make use of them to run mult
 
 **In bash you can execute a list of commands for every item on a list** (this is very useful to remember!)
 
-![for_loop_bash](/images/for_loops_bash.png)
+![for_loop_bash](./for_loops_bash.png)
 
 You can look online on how to use **For loops**, but this illustration should give you a good idea! 
 
 **If statements** are typically employed in parallel with for loops and help to stop a loop from running once a condition has been met. 
 
-![if_stat_bash](/images/if_stat_bash.png)
+![if_stat_bash](./if_stat_bash.png)
 
 Here, we provide a small example of an if statement and useful test operators. For more information, search on the internet. [Software carpentry](https://swcarpentry.github.io/shell-novice/) is a useful tool containing a series of lessons on how to use shell for scientific computations.
 
