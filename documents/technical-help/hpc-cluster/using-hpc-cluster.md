@@ -56,7 +56,8 @@ Every job you submit to the cluster will have to come with resource requirements
 
 You can visit this [page](https://hpc.dccn.nl/docs/cluster_howto/compute_torque.html#specifying-resource-requirement) to get more information on how to specify your resource requirements. 
 
-_Note_: for some analyses, you might have very specific requirements on properties of the HPC cluster you want to access (e.g., you want to use cuda, gpus, etc.). **You can specify these in your resource requirements when submitting a job**. The HPC wiki link above contains more information on the different requirements you can select. 
+{: .note }
+> For some analyses, you might have very specific requirements on properties of the HPC cluster you want to access (e.g., you want to use cuda, gpus, etc.). **You can specify these in your resource requirements when submitting a job**. The HPC wiki link above contains more information on the different requirements you can select. 
 
 It might be hard to estimate how many resources you require for a specific job. To make accurate estimations you can:
 -	Ask other more experienced colleagues 
@@ -67,4 +68,5 @@ It might be hard to estimate how many resources you require for a specific job. 
 For more information on estimating resources, see [here](https://hpc.dccn.nl/docs/cluster_howto/compute_torque.html#estimating-resource-requirement). 
 
 
-**Important**: try to not overestimate largely the resources you need. In this way, more people can use the cluster simultaneously.  For an exercise on resource requirements, see [this page](https://hpc.dccn.nl/docs/cluster_howto/exercise_resource/exercise.html). 
+{: .important }
+> Try to not overestimate largely the resources you need. In this way, more people can use the cluster simultaneously.  For an exercise on resource requirements, see [this page](https://hpc.dccn.nl/docs/cluster_howto/exercise_resource/exercise.html). 
