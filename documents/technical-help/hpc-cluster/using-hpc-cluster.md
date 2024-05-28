@@ -34,7 +34,7 @@ The main difference is that in **batch submissions** you simply tell the cluster
 
 This is a very brief cheat sheet on job submissions for the cluster:
 
-![job_resource_management](/images/job_submission_management.png)
+![job_resource_management](./job_submission_management.png)
 
 To get more information on **batch submissions** you can visit [this page](https://hpc.dccn.nl/docs/cluster_howto/compute_torque.html#batch-job-submission) on the HPC wiki. If you want to have a more hands-on approach, you can access this [link](https://hpc.dccn.nl/docs/cluster_howto/exercise_simple/exercise.html) with a practical exercise for batch submissions.
 
