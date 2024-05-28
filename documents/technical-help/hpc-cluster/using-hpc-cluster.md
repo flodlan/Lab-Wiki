@@ -23,8 +23,8 @@ There are three key functions for the **job management** workflow:
 3.	`$ qdel ` - this is to delete a job from the cluster
 
 To check for the output files after your job has run, you can use:
--	` $PWD/STDIN.o<JOBID>` - to see the output of your job
--	` $PWD/STDIN.e<JOBID> ` - to see any errors that might have occured when running your job
+-	`$PWD/STDIN.o<JOBID> ` - to see the output of your job
+-	`$PWD/STDIN.e<JOBID> ` - to see any errors that might have occured when running your job
 
 ### Job Submission
 
