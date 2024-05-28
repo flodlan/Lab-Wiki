@@ -30,14 +30,14 @@ To effectively use the terminal, you will have to learn how to navigate it using
 
 #### How to Connect to the CLI?
 
-* For **Windows users** see the instructions [here](https://hpc.dccn.nl/docs/cluster_howto/access-internal.html#ssh-login-with-putty).
+##### For **Windows users** see the instructions [here](https://hpc.dccn.nl/docs/cluster_howto/access-internal.html#ssh-login-with-putty).
 
 _Tips and Tricks_
 -	You can use any of the `mentat00x` servers. There is not a rationale for picking one over another.
 -	The configuration on the HPC WIKI is exactly how the screen in your computer should look like 
 -	When you are logging in with your username and password, you will not see the password being typed. However, it is there, so once you finish, simply click enter (this is the DCCN account in which the username is composed of the three first letters of your name and surname)
 
-* For **MacBook users**
+##### For **MacBook users**
 
 The HPC wiki does not contain information on how to do it. For this operating system (OS), you will **not** be making use of PUTTY. 
 
