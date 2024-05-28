@@ -7,11 +7,12 @@ nav_order: 3
 ---
 
 ## Using the Cluster
-The compute nodes at the HPC are currently managed by the **Torque resource manager**. Instead of allowing users to log in to the high-performance computer and run computations freely, users **submit** their computations in the forms of **jobs** to the Torque cluster. Here, the Torque will create a schedule and submit the work according to a series of considerations (you will have to set resource requirements and based on this the jobs (_i.e.,_computations you want to perform) will be arranged in **job queues**). 
+The compute nodes at the HPC are currently managed by the **Torque resource manager**. Instead of allowing users to log in to the high-performance computer and run computations freely, users **submit** their computations in the forms of **jobs** to the Torque cluster. Here, the Torque will create a schedule and submit the work according to a series of considerations (you will have to set resource requirements and based on this the jobs (_i.e.,_ computations you want to perform) will be arranged in **job queues**). 
 
 From a practical point of view, using the **Torque resource manager** means that you will have to learn specific commands in your CLI or the terminal of the VNC GUI to submit your work to the HPC.
 
-**Important Information:** _The DCCN is changing from Torque manager to SLURM**. This means the commands to connect to the cluster will be shortly changing. If you are new and wish to only learn SLURM you can see the HPC WIKI page for it [here](https://hpc.dccn.nl/docs/cluster_howto/compute_slurm.html). **We do NOT recommend only using SLURM as it is still in the testing phase**. **Why is the change happening?** Slurm is open source, allows for better error handling and is the new leader in HPC computing._
+{: .important }
+> _The DCCN is changing from Torque manager to SLURM**. This means the commands to connect to the cluster will be shortly changing. If you are new and wish to only learn SLURM you can see the HPC WIKI page for it [here](https://hpc.dccn.nl/docs/cluster_howto/compute_slurm.html). **We do NOT recommend only using SLURM as it is still in the testing phase**. **Why is the change happening?** Slurm is open source, allows for better error handling and is the new leader in HPC computing._
 
 To get more information on the [job prioritization](https://hpc.dccn.nl/docs/cluster_howto/compute_torque.html#resource-sharing-and-job-prioritisation) and [job resource management flow](https://hpc.dccn.nl/docs/cluster_howto/compute_torque.html#job-management-workflow), you can see the highlighted pages on the HPC Wiki.
 
