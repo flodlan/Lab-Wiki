@@ -62,7 +62,8 @@ The reason why you would use this is to reduce errors, create analysis pipelines
 
 To use these `.txt` documents as scripts, you simply set the document as executable `$ chmod +x myscript.sh ` on the terminal and run it by simply typing its name and hitting enter `$ /path/to/my/file/myscript.sh ` 
 
-_Note:_ For the system to read a text file as a bash command, you need to start it with `#!/bin/bash ` and use the file extension `.sh `
+{: .note }
+> For the system to read a text file as a bash command, you need to start it with `#!/bin/bash ` and use the file extension `.sh `
 
 **For Loops and If statements in Bash**
 
