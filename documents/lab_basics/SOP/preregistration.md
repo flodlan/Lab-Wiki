@@ -8,6 +8,7 @@ nav_order: 3
 
 ## Preregistration
 For the Predictive Lab's stance on Open Science practices and preregistration please refer to our [handbook](https://drive.google.com/file/d/1KwMbSAT4MfGEZaZtAyrChnOH4KTHIkmy/view)
+
 In the lab we use two different platforms to preregister our studies:
 1. [As Predicted](https://aspredicted.org/)
 2. [Open Science Framework (OSF)](https://osf.io/)
