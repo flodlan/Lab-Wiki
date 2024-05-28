@@ -8,9 +8,13 @@ nav_order: 1
 
 ## Cluster Access
 
-The system that connects multiple computers together is what we call **the cluster**. You can access it using any computer in the DCCN building or through your personal laptop. The important thing to remember is to be connected to the DCCN network through your eduVPN account (if you need help to do this, you can [contact the TG](https://intranet.donders.ru.nl/index.php?id=helpdesk)).
+The system that connects multiple computers together is what we call **the cluster**. You can access it using any computer in the DCCN building or through your personal laptop.
 
-When you are connecting to the cluster, you are not directly accessing the high-performance computers. Instead, you access what is called **access nodes** that allow you to “talk” to the HPC and send in your work. These **access nodes** are called **mentat001, mentat002, mentat003, mentat004, mentat005, mentat006.**
+
+{: .note }
+> To connect to the cluster you need to be connected to the DCCN network through your eduVPN account (if you need help to do this, you can [contact the TG](https://intranet.donders.ru.nl/index.php?id=helpdesk)).
+
+When you are connected to the cluster, you are not directly accessing the high-performance computers. Instead, you access what is called **access nodes** that allow you to “talk” to the HPC and send in your work. These **access nodes** are called **mentat001, mentat002, mentat003, mentat004, mentat005, mentat006.**
 
 **Important**: 
 -	The access nodes are **NOT** a computer cluster, but they are linked to it. 
