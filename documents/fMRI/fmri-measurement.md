@@ -5,7 +5,7 @@ parent: fMRI
 nav_order: 1
 ---
 
-# fMRI Checklist
+# fMRI Measurement Checklist
 
 The two documents below offer a template outlining the steps necessary to set-up and complete an fMRI measurement session. You can utilize one of the template documents and adapt it to suit the requirements of your own experiment. The extensive checklist version contains information for EyeTracker usage in case you are making use of this tool in your experimental set-up.
 
