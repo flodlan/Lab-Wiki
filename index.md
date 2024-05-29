@@ -26,7 +26,7 @@ If you are new to the lab, or have more general admin questions, this is the pla
 * * * 
 #### Standard Operating Procedures
 
-Here you will find the lab's guidelines and pipelines for conducting and analysing [behavioural](./documents/behavioral_testing.md), [fMRI](./documents/fMRI.md) and [M/EEG](./documents/MEG.md) data, as well as some general guidelines for conducting research in the lab.
+Here you will find the lab's guidelines and pipelines for conducting and analysing [behavioural]({% link documents/behav-testing/behav-testing.md %}), [fMRI]({% link documents/fMRI/fMRI.md %}) and [M/EEG] data, as well as some general guidelines for conducting research in the lab.
 
 * * * 
 
