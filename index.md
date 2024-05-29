@@ -30,7 +30,7 @@ Here you will find the lab's guidelines and pipelines for conducting and analysi
 
 * * * 
 
-#### [Technical Help](./documents/technical_help.md)
+#### [Technical Help]({% link documents/technical-help/technical-help.md %})
 
 Here you will find some technical guides (e.g. how to use the cluster), as well as links to sample code and useful resources.
 
