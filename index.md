@@ -19,7 +19,7 @@ We hope you have a great time during your stay in the lab and that this resposit
 #### The wiki is divided into the following sections:
   
 
-#### [Lab Basics](./documents/lab_basics.md)
+#### [Lab Basics]({% link documents/lab_basics/lab_basics.md %})
 
 If you are new to the lab, or have more general admin questions, this is the place to start. You can find a guide to the lab, guides for more general procedures and some useful links to Donders Institute resources.
 
