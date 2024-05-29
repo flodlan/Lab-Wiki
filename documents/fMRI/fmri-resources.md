@@ -12,7 +12,7 @@ The following section will provide with useful resources when starting with fMRI
 If you are completely unfamiliar with fMRI analysis, a **great starter point is the book by Poldrack, Mumford and Nichols - [Handbook of Functional fMRI Analysis]**(https://www.cambridge.org/core/books/handbook-of-functional-mri-data-analysis/8EDF966C65811FCCC306F7C916228529). It provides thorough explanations concerning all the steps necessary to process this type of data. 
 You might be able to find this online or checking the Radboud University Library.
 
-One of the authors of this book, **[Jeanette Mumford](https://jeanettemumford.org/), has also made a video lecture series** covering a wide of topics regarding the analysis of fMRI data. They provide intuitive easy to follow explanations for how fMRI analysis work. You can find her channel [here](https://www.youtube.com/c/mumfordbrainstats/videos). It is recommended to have a basic level of linear algebra to follow her explanations. 
+One of the authors of this book, **[Jeanette Mumford](https://jeanettemumford.org/), has also made a video lecture series** covering a wide of topics regarding the analysis of fMRI data. They provide intuitive easy to follow explanations for how fMRI analysis work. You can find her channel [here](https://www.youtube.com/c/mumfordbrainstats/videos) (it is recommended to have a basic level of linear algebra to follow her explanations). 
 
 Another **video lecture series** that has now been transformed into a Coursera Course by Martin Lindquist and Tor Wager can be found [here](https://www.youtube.com/@principlesoffmri6920). The link for the Coursera crash course is [here](https://www.coursera.org/learn/functional-mri?source=deprecated_spark_cdp)
 
