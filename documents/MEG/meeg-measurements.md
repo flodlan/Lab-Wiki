@@ -19,12 +19,12 @@ Even if you are familiar with this type of analysis, we recommend following a ch
 2. A fine-grained acquisition guideline can be found here: [MEG checklist](./MEG_checklist.pdf)
 
 # EEG Measurement Checklist
-Similar as for the MEG, the documents below will provide a step-by-step guide on the steps necessary to complete a recording session.
+Similar as for the MEG, the documents below will provide a step-by-step guide to complete a recording session.
 We advise to always follow a checklist (you are welcome to make your own) to ensure that all steps have been performed while doing your recordings. 
 
 1. A general EEG checklist - [Standrized Measurement Protocol](https://intranet.donders.ru.nl/fileadmin/user_upload/DCCN/Laboratories/EEG/Procedures/EEG__StandardMeasurementProtocol_2020.pdf)
 2. A general guide on [how to apply EEG electrodes](https://intranet.donders.ru.nl/fileadmin/user_upload/DCCN/Laboratories/EEG/Procedures/20230825_EEG_experimental_procedure.pdf)
-3. A guide on how to clean the electrode cap after a recording session - [Step-by-step guide](https://intranet.donders.ru.nl/uploads/media/Cleaningprocedure_EEG_March_2015.pdf)
+3. A guide on how to clean the electrode cap after a recording session - [Step-by-step instructions](https://intranet.donders.ru.nl/uploads/media/Cleaningprocedure_EEG_March_2015.pdf)
 
 {: .note }
 >  Remember to always follow the general guidelines of data management of the Donders Institute. This is especially important for reproducibility in neuroimaging experiments and sharing your results with other lab members. 
