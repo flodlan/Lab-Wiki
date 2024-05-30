@@ -12,18 +12,18 @@ nav_order: 4
 
 ### Completely New?
 - Contact between Essen & Donders is not very formalized. It is best to contact someone who scans there and join for one session to get to know the important players.
-- In addition, contact [Oliver Kraff](https://www.hahn-institut.de/de/ueber/team/kraff-oliver)(Researcher in Essen) and [Peter Koopmans](https://www.diagnijmegen.nl/people/peter-koopmans/) with short introduction of yourself and your project.
+- In addition, contact [Oliver Kraff](https://www.hahn-institut.de/de/ueber/team/kraff-oliver) (Researcher in Essen) and [Peter Koopmans](https://www.diagnijmegen.nl/people/peter-koopmans/) with a short introduction of yourself and your project.
 
 ## Organization
 ### Security 
-- Familiarize yourself with 3T security
+- Familiarize yourself with [3T security](https://intranet.donders.ru.nl/index.php?id=mri-lab-access-training)
 - Get security training (_see below_)
 
 ### Getting Access to the Scanner
 #### Security Training / Certified User
  * Contact [Oliver Kraff](https://www.hahn-institut.de/de/ueber/team/kraff-oliver) for a 1h onsite security training.
- * If you speak German, you can join one of the hospital trainings.
- * If you speak English, you will get a "private" training
+   * If you speak German, you can join one of the hospital trainings.
+   * If you speak English, you will get a "private" training
  * If you have used the MRI for more than 3 years, you can do an online course, see this [link](https://hahn-institut.de/projects/safetytraining)
 
 {: .note }
@@ -72,7 +72,6 @@ There are two booking options:
 
 #### Pilot
 The online website will generate a prefilled form that you have to print and bring to David Norris. Use the online form!
-_Comments to specific fields from previous lab member experiences:_
 
 #### Funding
 - If you do not have scanning overhead in your grant (ask Floris): After talking to Finance Donders I put "not applicable"
@@ -100,6 +99,7 @@ You can arrange the transport to and from Essen, Germany with the [Donders Admin
 > _any car they have will do. Thank you in advance!_
 
 You can then go to the rental car agency and get your car. 
+
 {: .important }
 > The car agency used in the past has closed since then. Hence, check with admin whether there are any alternatives.
 
@@ -114,7 +114,7 @@ You can then go to the rental car agency and get your car.
 
 
 ## Analysis of 7T Data
-Data are analysed similarly to 3T data. These steps were I inherited from Sam Lawrence and he from Peter Kok in order.
+Data are analysed similarly to 3T data. These steps were I inherited from [Sam Lawrence](https://www.linkedin.com/in/samueljdlawrence?originalSubdomain=uk) (not in academia anymore) and he from [Peter Kok](https://profiles.ucl.ac.uk/66629-peter-kok) in order.
 
 ### Essen Recording
 Essen has quite a few additional manual steps that are quite complex to explain without sitting in front of the scanner. You will usually get an introduction. 
@@ -148,7 +148,7 @@ The CAIPI 3D-EPI sequence (allowing 3D*Acceleration) in Essen is extremely slow 
 `rsync *ahv **progress *e 'ssh *p 1234' meas_MID21_benehi_caipi_localizer.dat benehi@localhost:/project/3018028.04/benehi/test.dat`
 
 #### Offline Reconstruction
-- In case you want to reconstruction offline (one 10min run ~50GB) you need the reconscripts from Peter Koopmans. Write him to get the newest edition.
+- In case you want to reconstruction offline (one 10min run ~50GB) you need the reconscripts from Peter Koopmans (see above). Write him to get the newest edition.
 - Recon is quite slow (1st Volume much slower than the others)
 - You need to put one reconstructed volume in the same folder so that the script can copy the DICOM header.
 - You have to specify the CAIPI acceleration factors. For me it was 4times in plane and 2 in z*plane so:
@@ -185,7 +185,7 @@ We need to align functional surface + anatomical in same space. We also want to 
 There are multiple different ways to do layer analyses. Renzo Huber has a [list of software](https://layerfmri.com/2018/01/04/layer-fmri-software-in-the-field/) on his blog.
 Here is how we right now do it:
 
-1. (Optional): Weight your functional activations with some localizer t-values
+1. (_Optional_): Weight your functional activations with some localizer t-values
 2. Move the anatomical ROIs to functional space & select topN voxels as a 0/1 binary mask
 3. LayerPipeline, use TVMs toolbox to extract layers. See his thesis / https://github.com/TimVanMourik/OpenFmriAnalysis/blob/master/Interface/LaminarAnalysis/tvm_layerPipeline.m - this extracts the layers. It is right now recommended to only use 5 layers to reduce ringing artefacts in the spatialGLM step (see TVMs plos one paper)
 4. Create Designmatrices for different Conditions
