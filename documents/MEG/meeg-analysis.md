@@ -20,10 +20,9 @@ The main software used by the members of the Predictive Brain Lab to do M/EEG an
 > You can ask other lab members if they have pro's and con's regarding their software selection before deciding what to use. It may be the case that specific software is better for some analysis compared to others. 
 
 ## Preprocessing
-{: .note }
-> Given that most members use MEG, we will focus on the analysis of this type of data. However, keep in mind that it will be fairly similar to EEG. If you want EEG specific information, go to the MEG resources [ADD PAGE] page where you will find links to relevant EEG tutorials.
 
-Additionally, we will provide snippets of code for the different analysis steps related to FieldTrip. 
+{: .note }
+> Given that most members use MEG, we will focus on the analysis of this type of data. However, keep in mind that it will be fairly similar to EEG. If you want EEG specific information, go to the MEG resources [ADD PAGE] page where you will find links to relevant EEG tutorials. Additionally, we will provide snippets of code for the different analysis steps related to FieldTrip. 
 
 
 For the preprocessing of MEG data, we follow several general steps:
