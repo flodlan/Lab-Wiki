@@ -27,7 +27,7 @@ The main software used by the members of the Predictive Brain Lab to do M/EEG an
 
 For the preprocessing of MEG data, we follow several general steps:
 
-1. Load the participant data
+1. Load the raw participant data
 2. Define the trials (usually based on the triggers of your experiment code) -- use `ft_definetrial`
 3. (_Optional_) Remove any trials that should be excluded from your main analysis (_e.g.,_ practice trials, incorrect trials, or trials from a specific type)
 4. (_Optional_) 3rd order gradient correction (use `ft_denoise_synthetic`): this helps to remove noise from a source outside of the brain/head and possibly from the environment
@@ -37,3 +37,6 @@ For the preprocessing of MEG data, we follow several general steps:
 8. (_Optional_) Resample data at a lower sampling frequency to reduce data size (use `ft_resampledata`) – **Note**, resampling can change the time axis in undesired ways, in many cases it can be useful to manually define a time axis to which to resample your data so that the data are centered at zero
 9. Run ICA analysis to identify and reject components related to eye movements and heart beat (use `ft_componentanalysis`)
 10. Save preprocessed and cleaned data to disk
+
+
+
