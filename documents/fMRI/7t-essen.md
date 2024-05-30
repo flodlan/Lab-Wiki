@@ -103,7 +103,90 @@ You can then go to the rental car agency and get your car.
 {: .important }
 > The car agency used in the past has closed since then. Hence, check with admin whether there are any alternatives.
 
-###
+### Measuring Subjects
+
+* Find a subject in Sona
+* Book scanning time (On Wednesdays, if booked ahead, we have priority) 2 weeks ahead
+* Subjects have to fill the Donders form 24h before
+* If they have any metal in their body (tattoos, dental wire, etc.) write to Oliver Kraff . The 7T machine has different regulations than the regular 3T.
+* Subjects have to fill a form from the Essen institute (these are usually at the scanner)
+* Write down your consecutive subject-id + project ID + number of volumes you acquired into the logbook
 
 
+## Analysis of 7T Data
+Data are analysed similarly to 3T data. These steps were I inherited from Sam Lawrence and he from Peter Kok in order.
 
+### Essen Recording
+Essen has quite a few additional manual steps that are quite complex to explain without sitting in front of the scanner. You will usually get an introduction. 
+
+#### CAIPI reconstruction
+The CAIPI 3D-EPI sequence (allowing 3D*Acceleration) in Essen is extremely slow to reconstruct on the scanner (~15min for 3 volumes), therefore we record the raw-raw 3D k-space data and reconstruct it offline at the donders. The "CAIPI Sequence" allows to record ~60 slices of 0.8mm isotropic with a TR of 2.3s. Alterantive sequence with ~48slices and TR of 3.5s. Dataquality gets a hit with CAIPI, but its hard to compare.
+
+#### Recording/streaming CAIPI
+- Start the streamer by ssh'ing to the streamer computer and starting the streaming script
+- On the fMRI scanner console open the start menü, there are three scripts:
+  - START BLOCK
+  - START
+  - STOP
+- You most often want START BLOCK, which starts streaming and blocks the scanner from reconstructing the image
+- It is recommended to record 1 Volume (for the header) that you also reconstruct by the scanner. Therefore you would run START before starting the 1 volume acquisition.
+- Use STOP to stop it.
+
+- Sometimes the scanner reconstruction is messed up.
+
+#### Streaming to Donders
+
+- Get an openvpn tunnelkey from Marcel Gratz (see above) & SSHkey for the streamer
+- Open VPN connection to ELH
+- putty/ssh to streamer using SSHkey
+- putty/ssh back to Donders
+
+`screen ssh *L 1234:mentat004:22 *p 22 benehi@ssh.dccn.nl`
+
+- Copy your files
+
+`rsync *ahv **progress *e 'ssh *p 1234' meas_MID21_benehi_caipi_localizer.dat benehi@localhost:/project/3018028.04/benehi/test.dat`
+
+#### Offline Reconstruction
+- In case you want to reconstruction offline (one 10min run ~50GB) you need the reconscripts from Peter Koopmans. Write him to get the newest edition.
+- Recon is quite slow (1st Volume much slower than the others)
+- You need to put one reconstructed volume in the same folder so that the script can copy the DICOM header.
+- You have to specify the CAIPI acceleration factors. For me it was 4times in plane and 2 in z*plane so:
+
+`ELH_3DEPI_reconstruction_function(datadir,[4 2])`
+
+### Pipeline
+Mostly consistent with Sam J. D. Lawrence Pipeline ([Attention & Working Memory Papers](https://scholar.google.nl/citations?user=IkEbg-0AAAAJ&hl=en))
+
+1. Reconstruct CAIPI / bidscoiner
+
+#### Anatomical
+1. Modify MP2RAGE: This makes the very noise background of the uni-image black ([TVM openfmritoolbox](https://github.com/TimVanMourik/OpenFmriAnalysis/tree/master)).
+- Recommended upgrade: Skullstripping (and segmentation) with Nighres
+1. Freesurfer recon-all
+`recon-all -i $T1Path -subjid 'ses-01' -cw256 -all -parallel -hires`
+
+1. Crop to Occipital Cortex (done manually, for better realignment)
+2. Create Retinotopy from Atlas
+
+#### Functional 
+1. Realignment (we right now use SPM realign)
+2. Bias Correct
+
+#### Surface+Functional
+We need to align functional surface + anatomical in same space. We also want to coregister the boundaries of WhightMatter(WM) and Gray Matters(GM) to later generate the layers
+
+1. Align Surface & Functional ([TVM toolbox](https://github.com/TimVanMourik/OpenFmriAnalysis/tree/master))
+2. Boundary Based Registration
+3. Recursive Boundary Registration ([TVM toolbox](https://github.com/TimVanMourik/OpenFmriAnalysis/tree/master)) - minor changes only for me, at least visually. Would be interesting to inspect the laminar profiles with and without.
+
+
+### Layer Analysis
+There are multiple different ways to do layer analyses. Renzo Huber has a [list of software](https://layerfmri.com/2018/01/04/layer-fmri-software-in-the-field/) on his blog.
+Here is how we right now do it:
+
+1. (Optional): Weight your functional activations with some localizer t-values
+2. Move the anatomical ROIs to functional space & select topN voxels as a 0/1 binary mask
+3. LayerPipeline, use TVMs toolbox to extract layers. See his thesis / https://github.com/TimVanMourik/OpenFmriAnalysis/blob/master/Interface/LaminarAnalysis/tvm_layerPipeline.m - this extracts the layers. It is right now recommended to only use 5 layers to reduce ringing artefacts in the spatialGLM step (see TVMs plos one paper)
+4. Create Designmatrices for different Conditions
+5. Generate Timecourses & analyze them similarly to ERP (EEG) analyses
