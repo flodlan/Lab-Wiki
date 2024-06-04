@@ -47,4 +47,19 @@ You can find the current schedule [here](https://www.ru.nl/en/donders-institute/
 * [Decoding Rich Spatial Information with High Temporal Resolution - Stokes et al. (2015)](https://www.sciencedirect.com/science/article/pii/S1364661315002077). Article highlighting how MEG might be ideal for decoding neural states.
 * [Decoding Dynamic Brain Patterns from Evoked Responses: A Tutorial on Multivariate Pattern Analysis Applied to Time Series Neuroimaging Data - Grootswagers et al. (2017)](https://pubmed.ncbi.nlm.nih.gov/27779910/). A primer on using MVPA for M/EEG data
 * [Characterizing the dynamics of mental representations: the temporal generalization method - King and Dehaene (2014)](https://www.sciencedirect.com/science/article/pii/S1364661314000199?via%3Dihub). Adapting MVPA to time resolved signals. Great paper!
-* [Nonparametric statistical testing of EEG- and MEG-data - Maris and Oostenveld (2007)](https://www.sciencedirect.com/science/article/pii/S0165027007001707?via%3Dihub). 
+* [Nonparametric statistical testing of EEG- and MEG-data - Maris and Oostenveld (2007)](https://www.sciencedirect.com/science/article/pii/S0165027007001707?via%3Dihub).
+
+### Video Series
+
+- Besides containing tutorials and giving the Donders Toolkit for neuroimaging, the authors of Fieldtrip also upload a variety of videos to their page explaining different concepts or analysis performed in MEG or EEG. These can be found on this [link](https://www.fieldtriptoolbox.org/video/).
+
+{: .note }
+> They may overlap with the Donders Toolkit, so you might find information being repeated.
+
+- The Swedish National Facility for MEG has complied a [series of lectures](https://natmeg.se/learnaboutmeg/meglectures/) by a wide range of speakers explaining different terms and analysis types performed in this type of data. They of course do not have continuation between speakers but you might find useful information here.
+
+- Series of videos on Neural Signal Processing and Analysis by Mike X Cohen (used to be a researcher at the Donders). You can find them, [here](https://www.youtube.com/playlist?list=PLn0OLiymPak0t1moK3sn4Sl1seXlEOPHT)
+
+### Courses
+
+- [MNE Tutorial Series](https://mne.tools/stable/auto_tutorials/index.html) - Their website provides explanations, sample code, and expected output for the most common types of analysis in M/EEG. They have very clear and thorough explanations, though at the expense of not having too many topics being explained. 
