@@ -25,7 +25,7 @@ The main software used by the members of the Predictive Brain Lab to do fMRI ana
 You can find the current schedule [here](https://www.ru.nl/en/donders-institute/services/donders-toolkits). 
 
 {: .note }
-> Ask other lab members for their experience with these courses. Additionally, you might want to consider looking at the software being sued during these toolkits as it might not match with your experience or goals.
+> Ask other lab members for their experience with these courses. Additionally, you might want to consider looking at the software being used during these toolkits as it might not match with your experience or goals.
 
 
 ### Books
