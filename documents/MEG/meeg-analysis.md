@@ -31,6 +31,8 @@ For the preprocessing of MEG data, we follow several general steps:
 9. Run ICA analysis to identify and reject components related to eye movements and heart beat (use `ft_componentanalysis`)
 10. Save preprocessed and cleaned data to disk
 
+In the following [link](https://www.fieldtriptoolbox.org/tutorial/#reading-and-preprocessing-data) you can find a series of Fieldtrip based tutorials to perform all of the preprocessing steps mentioned.
+
 ## Overview of Analysis Type
 Analyses of MEG data can broadly be divided into sensor-level and source-level analyses. The former are done on the level of the MEG sensors, while the latter use some sort of source reconstruction technique to estimate activity and specific **source locations**.
 
