@@ -33,14 +33,18 @@ You can find the current schedule [here](https://www.ru.nl/en/donders-institute/
 * [Magnetoencephalography - From Signals to Dynamic Cortical Networks](https://link.springer.com/book/10.1007/978-3-642-33045-2)
 
 ### Articles
-
+#### MEG
 * [Magnetoencephalography for brain electrophysiology and imaging - Baillet (2017)](https://www.nature.com/articles/nn.4504). A great review on the aspects that uniquely characterize magnetoencephalography (MEG) to study the brain.
-* [The brain in time: insights from neuromagnetic recordings - Hari et al. (2010)](https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1111/j.1749-6632.2010.05438.x). A nice introduction to MEG recordings.]
+* [The brain in time: insights from neuromagnetic recordings - Hari et al. (2010)](https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1111/j.1749-6632.2010.05438.x). A nice introduction to MEG recordings.
+ 
+#### EEG
 * [A Brief Introduction to the Use of Event-Related Potentials (ERPs) in Studies of Perception and Attention - Woodman (2010)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3816929/).
-* [Under the Mind's Hood: What We Have Learned by Watching the Brain at Work - Nobre and Ede (2020)](https://www.jneurosci.org/content/40/1/89). Nice reflection on how these neuroimaging methods have been changing our understanding the brain in the last years.
 * [Where Does EEG Come From and What Does It Mean? - Cohen (2017)](https://www.sciencedirect.com/science/article/pii/S0166223617300243?via%3Dihub). Great paper to better characterize EEG.
 * [The functional importance of rhythmic activity in the brain - Thut et al. (2012)](https://pubmed.ncbi.nlm.nih.gov/22917517/). Paper that reflects different analysis that can be performed with this type of data.
+* [Under the Mind's Hood: What We Have Learned by Watching the Brain at Work - Nobre and Ede (2020)](https://www.jneurosci.org/content/40/1/89). Nice reflection on how these neuroimaging methods have been changing our understanding the brain in the last years.
+
+#### Advanced Analysis
 * [Decoding Rich Spatial Information with High Temporal Resolution - Stokes et al. (2015)](https://www.sciencedirect.com/science/article/pii/S1364661315002077). Article highlighting how MEG might be ideal for decoding neural states.
 * [Decoding Dynamic Brain Patterns from Evoked Responses: A Tutorial on Multivariate Pattern Analysis Applied to Time Series Neuroimaging Data - Grootswagers et al. (2017)](https://pubmed.ncbi.nlm.nih.gov/27779910/). A primer on using MVPA for M/EEG data
 * [Characterizing the dynamics of mental representations: the temporal generalization method - King and Dehaene (2014)](https://www.sciencedirect.com/science/article/pii/S1364661314000199?via%3Dihub). Adapting MVPA to time resolved signals. Great paper!
-* [Nonparametric statistical testing of EEG- and MEG-data - Maris and Oostenveld (2007)]. 
+* [Nonparametric statistical testing of EEG- and MEG-data - Maris and Oostenveld (2007)](https://www.sciencedirect.com/science/article/pii/S0165027007001707?via%3Dihub). 
