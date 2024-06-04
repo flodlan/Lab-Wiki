@@ -38,7 +38,7 @@ Analyses of MEG data can broadly be divided into sensor-level and source-level a
 
 ### Sensor Level Analysis 
 
-#### Event-related fields (ERFs) for MEG and Event-Related Potentials for EEG
+#### Event-related fields (ERFs) for MEG and Event-Related Potentials (ERPs) for EEG
 A major goal when analyzing M/EEG data is to examine the modulation of brain activity link to a specific event. However, due to the large amount of intrinsic and extrinsic noise in the signals, it is nearly impossible to get any data from single trials. A very common approach is to repeat events in your experiment and average the corresponding neural signals over several trials, thus increasing your singal-to-noise ratio (SNR). The main assumption is that the noise is independent from the events and thus reduced when averaging, while the effect of interest stays in place. 
 
 The following links will direct you towards lectures and tutorials on how to perform these analysis for M/EEG data
