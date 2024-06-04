@@ -12,7 +12,7 @@ This section will provide you with information and resources to perform M/EEG an
 ## Preprocessing
 
 {: .note }
-> Given that most members use MEG, we will focus on the analysis of this type of data. However, keep in mind that it will be fairly similar to EEG. If you want more basic information about M/EEG analysis in general, software to use or other resources. Check the [MEG Resources]({% link documents/MEG/meeg-resources.md %}) page. 
+> Given that most members use MEG, we will focus on the analysis of this type of data. However, keep in mind that it will be fairly similar to EEG. If you want more basic information about M/EEG analysis in general, software to use or other resources check the [MEG Resources]({% link documents/MEG/meeg-resources.md %}) page. 
 
 {: .important }
 > Fieldtrip is the **default software** being used for most M/EEG given that it is developed at the Donders and they provide support for it. Hence, most of the analysis described below will have links directing you to tutorials using this software. If you want alternative to this, please refer to the [MEG Resources]({% link documents/MEG/meeg-resources.md %}) page. 
