@@ -7,7 +7,7 @@ nav_order: 2
 
 # M/EEG Analysis
 
-This section will provide you with information and resources to perform M/EEG analysis. We will mostly explain the different analysis commonly performed by lab members and the available software you can use for tme. 
+This section will provide you with information and resources to perform M/EEG analysis. We will mostly explain the different analysis commonly performed by lab members and the available software you can use for it. 
 
 ## Software
 
@@ -40,6 +40,32 @@ For the preprocessing of MEG data, we follow several general steps:
 
 ## Overview of Analysis Type
 Analyses of MEG data can broadly be divided into sensor-level and source-level analyses. The former are done on the level of the MEG sensors, while the latter use some sort of source reconstruction technique to estimate activity and specific **source locations**.
+
+### Sensor Level Analysis 
+
+#### Event-related fields (ERFs) for MEG and Event-Related Potentials for EEG
+A major goal when analyzing M/EEG data is to examine the modulation of brain activity link to a specific event. However, due to the large amount of intrinsic and extrinsic noise in the signals, it is nearly impossible to get any data from single trials. A very common approach is to repeat events in your experiment and average the corresponding neural signals over several trials, thus increasing your singal-to-noise ratio (SNR). The main assumption is that the noise is independent from the events and thus reduced when averaging, while the effect of interest stays in place. 
+
+The following links will direct you towards lectures and tutorials on how to perform these analysis for M/EEG data
+
+- Event Related Fields (ERFs) for MEG: [A Fieldtrip Tutorial](http://www.fieldtriptoolbox.org/tutorial/eventrelatedaveraging/)
+  - [Important Document with Planar Gradient Information at the DCCN](./Gradients_MEG.pdf)
+- Event Related Potentials for EEG: [A Fieldtrip Tutorial](http://www.fieldtriptoolbox.org/tutorial/preprocessing_erp/)
+- Parametric and Non-parametric Statistics on Event Related Fields/Potentials: [A Fieldtrip Tutorial](http://www.fieldtriptoolbox.org/tutorial/eventrelatedstatistics)
+  - [Lecture from Donders MEG Toolkit on Parametric and Non-parametric Statistics](https://www.youtube.com/watch?v=x0hR-VsHZj8)
+- Cluster Based Permutations on ERF/ERPs: [A FieldTrip Tutorial](http://www.fieldtriptoolbox.org/tutorial/cluster_permutation_timelock)
+
+#### Time Frequency Analysis 
+
+Oscillatory components contained in the ongoing EEG or MEG signal often show power changes relative to experimental events. These signals are not necessarily phase-locked to the event and will not be represented in event-related fields and potentials. The goal of this section is to compute and visualize event-related changes by calculating time-frequency representations (TFRs) of power. 
+
+The following links will direct you towards lectures and tutorials on how to perfrom these analysis for M/EEG data
+
+- [Lecture Series by Mike Cohen on Time Series Analysis](https://www.youtube.com/playlist?list=PLn0OLiymPak2BYu--bR0ADNBJsC4kuRWs)
+- Time Frequency Analysis in M/EEG: [A Fieldtrip Tutorial](https://www.fieldtriptoolbox.org/tutorial/timefrequencyanalysis/)
+- Cluster-based permutation tests on time-frequency data: [A Fieltrip Tutorial](https://www.fieldtriptoolbox.org/tutorial/cluster_permutation_freq/)
+
+
 
 
 
