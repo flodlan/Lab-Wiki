@@ -7,22 +7,15 @@ nav_order: 2
 
 # M/EEG Analysis
 
-This section will provide you with information and resources to perform M/EEG analysis. We will mostly explain the different analysis commonly performed by lab members and the available software you can use for it. 
-
-## Software
-
-The main software used by the members of the Predictive Brain Lab to do M/EEG analysis is the following:
-* [FieldTrip](https://www.fieldtriptoolbox.org/) - **MATLAB** software toolbox for MEG, EEG and iEEG analysis. This is the **default** software being used given that it is developed at the Donders and they provide support for it.
-* [MNE](https://mne.tools/stable/index.html#) - Open-source **Python** package for exploring, visualizing, and analyzing human neurophysiological data: MEG, EEG, sEEG, ECoG, NIRS, and more
-* [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php) - EEGLAB is an interactive **Matlab** toolbox for processing continuous and event-related EEG, MEG and other electrophysiological data
-
-{: .note }
-> You can ask other lab members if they have pro's and con's regarding their software selection before deciding what to use. It may be the case that specific software is better for some analysis compared to others. 
+This section will provide you with information and resources to perform M/EEG analysis. We will mostly highlight the different analysis commonly performed by lab members and links towards relevant resources for them.
 
 ## Preprocessing
 
 {: .note }
-> Given that most members use MEG, we will focus on the analysis of this type of data. However, keep in mind that it will be fairly similar to EEG. If you want EEG specific information, go to the MEG resources [ADD PAGE] page where you will find links to relevant EEG tutorials. Additionally, we will provide snippets of code for the different analysis steps related to FieldTrip. 
+> Given that most members use MEG, we will focus on the analysis of this type of data. However, keep in mind that it will be fairly similar to EEG. If you want more basic information about M/EEG analysis in general, software to use or other resources. Check the [MEG Resources]({% link documents/MEG/meeg-resources.md %}) page. 
+
+{: .important }
+> Fieldtrip is the **default software** being used for most M/EEG given that it is developed at the Donders and they provide support for it. Hence, most of the analysis described below will have links directing you to tutorials using this software. If you want alternative to this, please refer to the [MEG Resources]({% link documents/MEG/meeg-resources.md %}) page. 
 
 
 For the preprocessing of MEG data, we follow several general steps:
