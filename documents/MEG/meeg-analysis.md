@@ -81,4 +81,19 @@ The following links will direct you towards lectures and tutorials on how to per
   - [Lecture from Donders Toolkit on Source Modelling for M/EEG](https://www.youtube.com/watch?v=86f5_x9SVQQ)
   - [Recording Headshape with Polhemus Digitizer at the DCCN](./Polhemus_Final.pdf): Head Shape Digitizer for Co-registration of the Data Recorded in the MEG system with a participant’s individual anatomical MRI scan
 
+- Beamforming: localizing oscillatory sources in MEG data - [A Fieldtrip Tutorial](https://www.fieldtriptoolbox.org/workshop/natmeg2014/beamforming/)
+  - [Lecture Recording from Donders Toolkit on Beamforming](https://www.youtube.com/watch?v=Ez72OFjSABs)
+- Coherence: localizing activity coherent with a stimulus - [A FielTrip Tutorial](https://www.fieldtriptoolbox.org/tutorial/beamformingextended/)
+- Source reconstruction of ERFs with Minimum-Norm Estimation - [A Fieldtrip Tutorial](https://www.fieldtriptoolbox.org/tutorial/minimumnormestimate/)
+- Dipole Fitting - [A Fieldtrip Tutorial](https://www.fieldtriptoolbox.org/workshop/natmeg2014/dipolefitting/)
+- Virtual channels - [A Fieldtrip Tutorial](https://www.fieldtriptoolbox.org/tutorial/virtual_sensors/)
 
+#### Additional Analysis 
+##### MVPA
+
+- A Tutorial on Multivariate Pattern Analysis Applied to Time Series Neuroimaging Data - [An Overview](https://direct.mit.edu/jocn/article/29/4/677/28605/Decoding-Dynamic-Brain-Patterns-from-Evoked)
+- [Video Lecture on Implementation and Concepts behind MVPA](https://www.youtube.com/watch?v=f3yrVfVtCUE)
+- MVPA Tutorial - [A Fieldtrip Tutorial](https://www.fieldtriptoolbox.org/tutorial/mvpa_light/)
+- From ERPs to MVPA Using the Amsterdam Decoding and Modeling Toolbox (ADAM) - [Beginner Friendly Toolbox](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2018.00368/full)
+
+  
