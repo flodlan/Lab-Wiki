@@ -39,7 +39,7 @@ Analyses of MEG data can broadly be divided into sensor-level and source-level a
 ### Sensor Level Analysis 
 
 #### Event-related fields (ERFs) for MEG and Event-Related Potentials (ERPs) for EEG
-A major goal when analyzing M/EEG data is to examine the modulation of brain activity link to a specific event. However, due to the large amount of intrinsic and extrinsic noise in the signals, it is nearly impossible to get any data from single trials. A very common approach is to repeat events in your experiment and average the corresponding neural signals over several trials, thus increasing your singal-to-noise ratio (SNR). The main assumption is that the noise is independent from the events and thus reduced when averaging, while the effect of interest stays in place. 
+A major goal when analyzing M/EEG data is to examine the modulation of brain activity linked to a specific event. However, due to the large amount of intrinsic and extrinsic noise in the signals, it is nearly impossible to get any data from single trials. A very common approach is to repeat events in your experiment and average the corresponding neural signals over several trials, thus increasing your singal-to-noise ratio (SNR). The main assumption is that the noise is independent from the events and thus reduced when averaging, while the effect of interest stays in place. 
 
 The following links will direct you towards lectures and tutorials on how to perform these analysis for M/EEG data
 
@@ -71,8 +71,8 @@ The following links will direct you towards lectures and tutorials on how to per
 The following links will direct you towards lectures and tutorials on how to perform these analysis for M/EEG data
 
 - [Headmodel for MEG analysis](https://www.fieldtriptoolbox.org/tutorial/headmodel_meg/) :This tutorial describes how to construct a volume conduction model of the head (head model) based on an individual subject’s MRI.
-- Headmodel for EEG analysis: [BEM Model Conduction Model](https://www.fieldtriptoolbox.org/tutorial/headmodel_eeg_bem/) and [FEM Model Conduction Model](https://www.fieldtriptoolbox.org/tutorial/headmodel_eeg_fem/)
-- [Sourcemodel for MEG or EEG analysis](https://www.fieldtriptoolbox.org/tutorial/sourcemodel/) - This tutorial will tell you how to construct a source model that can be used for source reconstruction of EEG or MEG data.
+- Headmodel for EEG analysis: [BEM Volume Conduction Model](https://www.fieldtriptoolbox.org/tutorial/headmodel_eeg_bem/) and [FEM Volume Conduction Model](https://www.fieldtriptoolbox.org/tutorial/headmodel_eeg_fem/)
+- [Source Model for MEG or EEG analysis](https://www.fieldtriptoolbox.org/tutorial/sourcemodel/) - This tutorial will tell you how to construct a source model that can be used for source reconstruction of EEG or MEG data.
   - [Lecture from Donders Toolkit on Source Modelling for M/EEG](https://www.youtube.com/watch?v=86f5_x9SVQQ)
   - [Recording Headshape with Polhemus Digitizer at the DCCN](./Polhemus_Final.pdf): Head Shape Digitizer for Co-registration of the Data Recorded in the MEG system with a participant’s individual anatomical MRI scan
 
