@@ -66,6 +66,19 @@ The following links will direct you towards lectures and tutorials on how to per
 - Cluster-based permutation tests on time-frequency data: [A Fieltrip Tutorial](https://www.fieldtriptoolbox.org/tutorial/cluster_permutation_freq/)
 
 
+### Source-Level Analysis 
 
+{: .note }
+> The anatomical MRI is _preferred_ if you want to do source modelling of the MEG signal. Source modelling (also known as "inverse modelling", "source reconstruction", "beamforming" or "dipolefitting") requires that you have a volume conduction model. This volume conduction model (also known as "head model") describes the relation between sources in the head and the measured activity on the outside of the head (either EEG or MEG), and it models the geometry and conductive properties of the head.
+
+> Ask [Paul Gaalman](https://www.ru.nl/personen/gaalman-p) for the standard MRI procedure and sequence.
+
+The following links will direct you towards lectures and tutorials on how to perform these analysis for M/EEG data
+
+- [Headmodel for MEG analysis](https://www.fieldtriptoolbox.org/tutorial/headmodel_meg/) :This tutorial describes how to construct a volume conduction model of the head (head model) based on an individual subject’s MRI.
+- Headmodel for EEG analysis: [BEM Model Conduction Model](https://www.fieldtriptoolbox.org/tutorial/headmodel_eeg_bem/) and [FEM Model Conduction Model](https://www.fieldtriptoolbox.org/tutorial/headmodel_eeg_fem/)
+- [Sourcemodel for MEG or EEG analysis](https://www.fieldtriptoolbox.org/tutorial/sourcemodel/) - This tutorial will tell you how to construct a source model that can be used for source reconstruction of EEG or MEG data.
+  - [Lecture from Donders Toolkit on Source Modelling for M/EEG](https://www.youtube.com/watch?v=86f5_x9SVQQ)
+  - [Recording Headshape with Polhemus Digitizer at the DCCN](./Polhemus_Final.pdf): Head Shape Digitizer for Co-registration of the Data Recorded in the MEG system with a participant’s individual anatomical MRI scan
 
 
