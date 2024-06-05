@@ -20,3 +20,30 @@ Python is a great programming language for researches as it tends to make diffic
 Also, learning python is easy! If you are already proficient in a different programming language transitioning should be straightforward!
 
 #### Starting with Python 
+
+If you have never seen or used Python, we will provide you with useful resources to get you up to speed. This will avoid you getting stuck or learning bad coding practices. Once you are familiar with datatypes, looping, functions, modules and especially numpy, you should be ready to 'hit the streets'.
+
+Interactive resources online are one of the best ways of learning Python as they teach you with a hands-on approach.  However, some of these require you to pay, which is not always ideal. Hence, we will highlight both payed and free resources for you.
+
+* [DataCamp](https://app.datacamp.com/) - Amazing resource full of tutorials and lectures that provide a comprehensive understanding of Python as well as specialized courses that might be useful for you as a researcher.
+
+{: .note }
+> Some people in the lab have free access to DataCamp. You can ask around to see whether they can provide you with this free access. 
+
+* [Codecademy](https://www.codecademy.com/learn) - Very similar to Data Camp with the difference that some of their courses are given for free.
+
+* [Lab in Cognition and Perception (Todd Gureckis)](https://teaching.gureckislab.org/spring24/labincp/intro.html) - A nice resource tailored to learning Python from scratch and applying it to neuroscience. If you are just looking to learning Python, this is NOT the resource for you as it also include theoretical information about the brain.
+
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - This book/website a detailed and amazing resource created by Jake VanderPlas. It provides very comprehensive explanations that will ensure a strong foundation.
+
+* - Learn Python 3 The Hard Way (Zed Shaw) - This book is a perfect introductory book that, despite its name, will get you up to speed in no time.
+
+{: .note }
+> You can find the PDF for the book online by typing the title + PDF
+
+##### Not a Beginner?
+* [Python for Neuroscientists (Tomas Knappen)](https://github.com/tknapen/python_workshop-Basel/tree/master) - This series of Python tutorials is directed towards neuroscientists and can serve to refresh your knowledge of some Python commands. 
+
+* [Python Research Masters Course (Lukas Snoek)](https://lukas-snoek.com/introPy/index.html) - This is a course designed by Lukas Snoek for ResMas students from the University of Amsterdam that assumed basic knowledge of programming languagues. It is directed towards behavioral sciences and includes a module of **programming in Psychopy**
+
+
