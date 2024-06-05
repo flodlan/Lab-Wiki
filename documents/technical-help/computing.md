@@ -36,7 +36,7 @@ Interactive resources online are one of the best ways of learning Python as they
 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - This book/website a detailed and amazing resource created by Jake VanderPlas. It provides very comprehensive explanations that will ensure a strong foundation.
 
-* - Learn Python 3 The Hard Way (Zed Shaw) - This book is a perfect introductory book that, despite its name, will get you up to speed in no time.
+* Learn Python 3 The Hard Way (Zed Shaw) - This book is a perfect introductory book that, despite its name, will get you up to speed in no time.
 
 {: .note }
 > You can find the PDF for the book online by typing the title + PDF
