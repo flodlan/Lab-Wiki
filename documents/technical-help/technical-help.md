@@ -6,7 +6,6 @@ has_children: true
 ---
 
 # Technical Help
-{: .no_toc }
 
 This section compiles useful technical information that lab members might need at some point during their research careers. The focus will mostly be on the acquisition of general hard skills by providing resources that have been useful for members in the past. 
 
