@@ -41,6 +41,8 @@ Interactive resources online are one of the best ways of learning Python as they
 {: .note }
 > You can find the PDF for the book online by typing the title + PDF
 
+* [Introduction to Programming in Python](https://www.ru.nl/en/education/education-for-professionals/overview/introduction-to-programming-in-python-rss0002-closed) - The Radboud University offers a five-day introduction to Programming in Python course designed for social scientists - with zero experience in programming - who would like to conduct data collection, analysis, and modelling with Python.
+
 ##### Not a Beginner?
 * [Python for Neuroscientists (Tomas Knappen)](https://github.com/tknapen/python_workshop-Basel/tree/master) - This series of Python tutorials is directed towards neuroscientists and can serve to refresh your knowledge of some Python commands. 
 
