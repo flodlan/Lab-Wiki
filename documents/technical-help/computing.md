@@ -46,6 +46,6 @@ Interactive resources online are one of the best ways of learning Python as they
 ##### Not a Beginner?
 * [Python for Neuroscientists (Tomas Knappen)](https://github.com/tknapen/python_workshop-Basel/tree/master) - This series of Python tutorials is directed towards neuroscientists and can serve to refresh your knowledge of some Python commands. 
 
-* [Python Research Masters Course (Lukas Snoek)](https://lukas-snoek.com/introPy/index.html) - This is a course designed by Lukas Snoek for Research Masters students from the University of Amsterdam that assumes basic knowledge of programming languagues. It is directed towards behavioral sciences and includes a module of **programming in Psychopy**
+* [Python Research Masters Course (Lukas Snoek)](https://lukas-snoek.com/introPy/index.html) - This is a course designed by Lukas Snoek for Research Masters students from the University of Amsterdam that assumes basic knowledge of programming languagues. It is directed towards behavioral sciences and includes a module of programming in [Psychopy](https://www.psychopy.org/)
 
 
