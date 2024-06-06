@@ -71,9 +71,9 @@ In general, our recommendations are:
   * [Jupyter notebooks or JupyterLab](https://jupyter.org/) - Not the first recommendation, but you might already be familiar with them 
 
 ### MATLAB
-Matlab is a programming platform and language that was specifically developed to perform computational mathematics (Matlab stands for Matrix Laboratory). It is tailored specifically for scientists and engineers and has relatively simple syntax. Unlike Python and R, Matlab is paid software, which means is less accessible for the general public but a specific team of engineers makes sure to provide constant updates.
+Matlab is a programming platform and language that was specifically developed to perform computational mathematics (Matlab stands for Matrix Laboratory). It is tailored specifically for scientists and engineers and has relatively simple syntax. Unlike Python and R, Matlab is paid software, which means a specialized team provides constant updates to the program. On the downside, its prices make it less accessible for the general public. 
 
-It used to be the golden standard in neuroscience for a number of years and still is in a lot of places. In general, this is the default programming language at the DCCN given that toolboxes to analyze neuroimaging data (FieldTrip) and present experimental designs (PyschToolbox) were developed here using Matlab. This means, direct support is available at the DCCN in case you have questions while using this program. Additionally, everyone working at the DCCN gets a free suscription, making it appealing as a first choice. 
+It used to be the golden standard in neuroscience for a number of years and still is in a lot of places. In general, this is the default programming language at the DCCN given that toolboxes to analyze neuroimaging data ([FieldTrip](https://www.fieldtriptoolbox.org/)) and present experimental designs ([PyschToolbox](http://psychtoolbox.org/)) were developed at the Donders Institute using Matlab. This means, direct support is available at the DCCN in case you have questions while using this program. Additionally, everyone working at the DCCN gets a free suscription, making it appealing as a first choice (you can ask the [Technical Group](https://intranet.donders.ru.nl/index.php?id=helpdesk) for help to install it in your computer) 
 
 #### Starting with MATLAB
 
