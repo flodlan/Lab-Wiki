@@ -11,7 +11,6 @@ nav_order: 2
 This section will provide you with useful information on resources and tools you can use for programming and analyzing data. The focus will be on providing an overview of important general purpose software that lies at the core of a lot of the analysis and work done by the members of the Predictive Brain Lab. 
 
 ## Software
-
 ### Python
 Python is a general-purpose, open-source programming language known for its simple syntax, easy readability, and efficient commands. It has become the standard in most technical fields, including deep learning, due to its advanced capabilities. 
 
