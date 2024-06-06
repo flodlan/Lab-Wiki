@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Computing Resources
+title: Software
 parent: Technical Help
 has_children: false
 nav_order: 2
 ---
 
-# Code, Analysis and Computing
+# Software
 
 This section will provide you with useful information on resources and tools you can use for programming and analyzing data. The focus will be on providing an overview of important general purpose software that lies at the core of a lot of the analysis and work done by the members of the Predictive Brain Lab. 
 
-## Software
+## Programming Languages
 ### Python
 Python is a general-purpose, open-source programming language known for its simple syntax, easy readability, and efficient commands. It has become the standard in most technical fields, including deep learning, due to its advanced capabilities. 
 
@@ -69,6 +69,18 @@ In general, our recommendations are:
   * [PyCharm](https://www.jetbrains.com/pycharm/?source=google&medium=cpc&campaign=EMEA_en_NL_PyCharm_Branded&term=pycharm&content=698987581422&gad_source=1&gclid=CjwKCAjwvIWzBhAlEiwAHHWgvTa8eQkxFxhaniSEJ8J9yk2YYQOQKSi1kvFbF1WoaJJhEzuRS7ocHRoCOh0QAvD_BwE) - Great tool and widely used. Not the default if your laptop has low RAM Memory.
   * [VSCode](https://code.visualstudio.com/) - Easy to use, can be used in the cluster directly, suitable for laptops with limited memory.
   * [Jupyter notebooks or JupyterLab](https://jupyter.org/) - Not the first recommendation, but you might already be familiar with them 
+
+### MATLAB
+Matlab is a programming platform and language that was specifically developed to perform computational mathematics (Matlab stands for Matrix Laboratory). It is tailored specifically for scientists and engineers and has relatively simple syntax. Unlike Python and R, Matlab is paid software, which means is less accessible for the general public but a specific team of engineers makes sure to provide constant updates.
+
+It used to be the golden standard in neuroscience for a number of years and still is in a lot of places. In general, this is the default programming language at the DCCN given that toolboxes to analyze neuroimaging data (FieldTrip) and present experimental designs (PyschToolbox) were developed here using Matlab. This means, direct support is available at the DCCN in case you have questions while using this program. Additionally, everyone working at the DCCN gets a free suscription, making it appealing as a first choice. 
+
+#### Starting with MATLAB
+
+Being a payed software, the MATLAB creators have great tutorials and documentation on their software online. 
+
+* [MATLAB Tutorials](https://nl.mathworks.com/support/learn-with-matlab-tutorials.html)
+* 
 
 
 
