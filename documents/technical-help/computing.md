@@ -55,4 +55,22 @@ As with any other programming language, you can only really learn it by using it
 We recommend to postpone your learning until you will start using Python for your work. Even when you use some of the resources highlighted above, all the time might be wasted if you do not use the things you have learned consistently. 
 
 #### Python's Organization
+Python is not an all-in-one product. At its core it is a programming language, which comes in different versions (Python 2 and 3). There are different distributions, which contain the pure language in addition to a lot of packages (these are like toolboxes for different needs you might have). Becase Python is open source and not centrally planned, these different distributions might have different ways of updating and maintaining them. 
+
+Additionally, Python does not come with a programming environment. This means you need to make use of a interactive development environment (IDE) or a code editor to use it. 
+
+All these options can be overwhelming to a beginner. Hence, we always recommend reading a little bit about Python before starting. You can see [here](https://github.com/swc-pyclub/pystarters/tree/master/topic_1_interactive_python) for an  easy introduction. 
+
+In general, our recommendations are:
+
+* Install Python with [Anaconda](https://www.anaconda.com/) as a distribution
+* Use virtual environments to maintain dependencies.
+* Use conda to manage packages — or pip but only use pip *in a virtual environment*.
+* Use one of the following IDEs for programming:
+  * [PyCharm](https://www.jetbrains.com/pycharm/?source=google&medium=cpc&campaign=EMEA_en_NL_PyCharm_Branded&term=pycharm&content=698987581422&gad_source=1&gclid=CjwKCAjwvIWzBhAlEiwAHHWgvTa8eQkxFxhaniSEJ8J9yk2YYQOQKSi1kvFbF1WoaJJhEzuRS7ocHRoCOh0QAvD_BwE) - Great tool and widely used. Not the default if your laptop has low RAM Memory.
+  * [VSCode](https://code.visualstudio.com/) - Easy to use, can be used in the cluster directly, suitable for laptops with limited memory.
+  * [Jupyter notebooks or JupyterLab](https://jupyter.org/) - Not the first recommendation, but you might already be familiar with them 
+
+
+
 
