@@ -7,17 +7,24 @@ nav_order: 2
 ---
 
 # Code, Analysis and Computing
+{: .no_toc }
 
 This section will provide you with useful information on resources and tools you can use for programming and analyzing data. The focus will be on providing an overview of important general purpose software that lies at the core of a lot of the analysis and work done by the members of the Predictive Brain Lab. 
+
+## Table of Contents
+{: .no_toc }
+
+- TOC
+{: .toc }
 
 ## Software
 
 ### Python
-Python is a general-purpose and open source programming language. Its syntax is very simple, has easy code readibility and its commands are efficient. Hence, it is not surprising that is has become, outside academia and in most technical fields, the standard. Not knowing Python means not having access to some of the most modern and advanced techniques available (_e.g.,_ most deep learning implementations happen in this language).
+Python is a general-purpose, open-source programming language known for its simple syntax, easy readability, and efficient commands. It has become the standard in most technical fields, including deep learning, due to its advanced capabilities. 
 
-Python is a great programming language for researchers as it tends to make difficult things (visualizations, machine learning, statistical analysis, etc.) much easier. Often, even the most sophisticated things can be done by simply finding the right package, and writing just a few lines of code.
+For researchers, Python simplifies complex tasks like visualizations, machine learning, and statistical analysis, often requiring only a few lines of code with the right package. 
 
-Also, learning python is easy! If you are already proficient in a different programming language transitioning should be straightforward!
+Additionally, learning Python is easy, especially for those already proficient in another programming language.
 
 #### Starting with Python 
 
@@ -48,4 +55,11 @@ Interactive resources online are one of the best ways of learning Python as they
 
 * [Python Research Masters Course (Lukas Snoek)](https://lukas-snoek.com/introPy/index.html) - This is a course designed by Lukas Snoek for Research Masters students from the University of Amsterdam that assumes basic knowledge of programming languagues. It is directed towards behavioral sciences and includes a module of programming in [Psychopy](https://www.psychopy.org/)
 
+
+#### How to use Python?
+As with any other programming language, you can only really learn it by using it. Therefore, by far the easiest way to learn Python is to choose a new project and plan up front to do this entire project (or at least a part of it, like all fMRI-analysis) in Python - and stick with it.  
+
+We recommend to postpone your learning until you will start using Python for your work. Even when you use some of the resources highlighted above, all the time might be wasted if you do not use the things you have learned consistently. 
+
+#### Python's Organization
 
