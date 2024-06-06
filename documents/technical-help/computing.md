@@ -87,15 +87,44 @@ Besides their tutorials, there are not a lot of courses online available to lear
 * [MATLAB for Brain and Cognitive Scientists](https://mitpress.mit.edu/9780262035828/) - This book teaches brain scientists how to program in MATLAB, with a focus on applications most commonly used in neuroscience and psychology. The advantage of this resource over others is that it provides not only beginner level information, but goes all the way to advanced.
 
 
-
-
-
 ### R 
+R is a programming language and platform for **statistical computing and data visualization**. It is the preferred software for statisticians and some lab members use it for their statistical analysis. 
 
-Introduction to Data Science with R and Rstudio (RSS3.01) 
-Introduction into R (RSS2.09) 
-Crash Course in R – A Gentle Introduction (RSS00.06) 
-Introduction to Machine Learning with R and R studio (RSS4.05)
+Similarly to Python, the core R language is the augmented by a variety of extension packages (something like toolboxes) that allows you to do specific analysis. In addition, it is open-source and free software, which makes it readily available and easy to understand. 
+
+We would not recommend learning R as your **first and only** programming language during your time in the lab as you most likely will have to make use of some of the other two programming languages mentioned above (_e.g.,_ for creating experiment scripts). However, it is a very powerful tool that in a lot of occassions can do more than what you would expect it, especially for data wrangling and visualizations. 
+
+The program R works with an interpreter that looks very similar to the terminal in your computer. To effectively use R, we recommend making use of [RStudio](https://posit.co/download/rstudio-desktop/), which makes it look like other IDEs. 
+
+R also contains [RMarkdown](https://rmarkdown.rstudio.com/), which is a format for writing reproducible, dynamic reports with R (similar to Jupyter Notebooks for Python). It allows you to turn your analyses into high quality documents, reports, presentations and dashboards. This means you can write and keep an always up-to-date manuscript in there (using [LATEX](https://www.latex-project.org/)) or HTML-Presentations.
+
+#### Starting with R
+
+One of the main contributors to the programming language R, [Hadley Wickham](https://hadley.nz/), has created a very useful and interactive book to teach you to do data science with R. It goes throuhg how to use it, look at structures, transform and visualize them. 
+
+* [R for Data Science (2e) - Wickham ](https://r4ds.hadley.nz/)
+
+There is a different way of doing R called the tidy way. This is super useful for organizing your data, reproducibility and doing your statistical analysis. While the resource above contains information on how to use this 'tidyverse', the following book is focused on learning how to use R in a tidy way.
+
+* [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse (2024)](https://moderndive.com/index.html)
+
+Besides the two books previously mentioned, you can learn R through a variety of interactive tutorials online. 
+
+* [DataCamp](https://app.datacamp.com/learn/courses?technologies=1) - This resource contains a large range of courses to learn to use R, from the most beginner friendly to very advanced analysis.
+
+* [Codecademy](https://www.codecademy.com/learn/learn-r) - Similar to DataCamp, this resource contains tutorials with interactive exercises to learn how to code using R. 
+
+The two resources mentioned above require you to have a paid suscription, however, there are also other free options online
+
+* [SWIRL](https://swirlstats.com/) - an R package that teaches you how to use the programming language interactively. You have to install the package and it has instructions that walk you through the most important information to use R.
+
+* [Programming in Psychological Science with R (Michael Nunez and Hannes Rosenbusch)](https://github.com/mdnunez/PIPS_course?tab=readme-ov-file) - This is a four week course that introduces master's students of the University of Amsterdam to the usage of R and Python. It should be beginner friendly and prepare you for the type of usage you will most likely need in your time at the PBL lab.
+
+If none of these materials seem to suit your needs, the Radboud University offers summer courses to learn how to use R:
+
+* [Introduction to Data Science with R and Rstudio](https://www.ru.nl/en/education/education-for-professionals/overview/introduction-to-data-science-with-r-and-rstudio-rss301-confirmed)
+* [Introduction into R](https://www.ru.nl/en/education/education-for-professionals/overview/introduction-into-r-rss209-confirmed)
+* Crash Course in R – A Gentle Introduction (https://www.ru.nl/en/education/education-for-professionals/overview/crash-course-in-r-a-gentle-introduction-rss0006-confirmed)
 
 
 
