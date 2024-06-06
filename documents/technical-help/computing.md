@@ -21,7 +21,7 @@ Also, learning python is easy! If you are already proficient in a different prog
 
 #### Starting with Python 
 
-If you have never seen or used Python, we will provide you with useful resources to get you up to speed. This will avoid you getting stuck or learning bad coding practices. Once you are familiar with datatypes, looping, functions, modules and especially numpy, you should be ready to 'hit the streets'.
+If you have never seen or used Python, we will provide you with useful resources to get you up to speed. This will avoid you getting stuck or learning bad coding practices. Once you are familiar with data types, looping, functions, modules and especially `numpy`, you should be ready to 'hit the streets'.
 
 Interactive resources online are one of the best ways of learning Python as they teach you with a hands-on approach.  However, some of these require you to pay, which is not always ideal. Hence, we will highlight both payed and free resources for you.
 
