@@ -80,7 +80,22 @@ It used to be the golden standard in neuroscience for a number of years and stil
 Being a payed software, the MATLAB creators have great tutorials and documentation on their software online. 
 
 * [MATLAB Tutorials](https://nl.mathworks.com/support/learn-with-matlab-tutorials.html)
-* 
+
+Besides their tutorials, there are not a lot of courses online available to learn how to use MATLAB in an interactive way. However, we will provide some resources below that can help you get up to speed with it:
+
+* [MATLAB: A Practical Introduction to Programming and Problem Solving](https://www.sciencedirect.com/science/article/pii/B9780128045251099918). This book starts from learning the basics of programming to how to use the powerful capabilities of MATLAB for scientific analysis. 
+* [MATLAB for Brain and Cognitive Scientists](https://mitpress.mit.edu/9780262035828/) - This book teaches brain scientists how to program in MATLAB, with a focus on applications most commonly used in neuroscience and psychology. The advantage of this resource over others is that it provides not only beginner level information, but goes all the way to advanced.
+
+
+
+
+
+### R 
+
+Introduction to Data Science with R and Rstudio (RSS3.01) 
+Introduction into R (RSS2.09) 
+Crash Course in R – A Gentle Introduction (RSS00.06) 
+Introduction to Machine Learning with R and R studio (RSS4.05)
 
 
 
