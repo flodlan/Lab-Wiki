@@ -10,6 +10,10 @@ nav_order: 4
 
 The resources that will be highlighted here are software options that should make note-taking and writing easier. 
 
+- [Note-Taking](#note-taking)
+- [Writing Papers](#writing-papers)
+
+
 ### Note-Taking
 If you are looking for a transition to an app that allows you to keep notes in a similar fashion as handwritten ones. You can look at:
 - [Notion](https://www.notion.so/) - It is a productivity and note-taking application that provides you with a highly customizable space for planning and writing. While the free suscription should be enough for individual project, it is paid software
