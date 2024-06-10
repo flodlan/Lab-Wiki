@@ -202,7 +202,12 @@ Fortunately, resources are available to improve your coding practices, enhancing
 
 Installing Zotero and the corresponding browser connector on your computer is relatively straightforward and information about this can be easily found [online](https://www.zotero.org/). 
 
-Already good on its own, Zotero really shines when you (1) instruct it to store PDFs of papers somewhere in your OneDrive Donders folder and (2) use the ZotFile plugin to automatically rename and move new attachments. Incidentally, this also means you will never run out of Zotero account storage (which can fill up very quickly with PDF attachments), since your files are all stored inside OneDrive. This page will explain how to setup Zotero in such an optimal fashion. Note you will need to do all these steps exactly once on every machine on which you wish to use Zotero.
+Already good on its own, Zotero really shines when you (1) instruct it to store PDFs of papers somewhere in your OneDrive Donders folder and (2) use the ZotFile plugin to automatically rename and move new attachments. Incidentally, this also means you will never run out of Zotero account storage (which can fill up very quickly with PDF attachments), since your files are all stored inside OneDrive. This page will explain how to setup Zotero in such an optimal fashion. 
+
+{: .note }
+>You will need to do all these steps exactly once on every machine on which you wish to use Zotero.
+
+There are other reference tools besides Zotero (_e.g.,_ Mendeley), but we recommend sticking to this one.
 
 #### Zotero and One Drive: Your Library in the Cloud
 
@@ -234,5 +239,6 @@ Already good on its own, Zotero really shines when you (1) instruct it to store 
 Make sure Zotero is running.
 Head to any journal article on the web in your browser and click the "Save to Zotero" button. It should now be added to your library, the PDF should be downloaded automatically, stored in the folder you selected, and renamed according to the rules you defined in step 4.
 OneDrive will take care of syncing the new file to the cloud, so you have access to your full-text library wherever you go!
+
 
 
