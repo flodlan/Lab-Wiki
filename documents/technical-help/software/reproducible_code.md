@@ -7,6 +7,11 @@ nav_order: 2
 ---
 
 ## Reproducible (and Efficient) Coding 
+
+- [GitHub](#github)
+- [The Unix Shell](#the-unix-shell)
+- [Writing Code](#writing-code)
+
 ### GitHub
 #### What is Github?
 Git is a software that allows you to do version control of your scripts and files in detail. What version control does is that each time you modify your code, it saves a version of how the code looked like before that modification. In this way, it allows you to go back to how your files looked like before certain changes happened (similar to how Google Docs works). Another advantage of Git, is that is makes it easier to work together on projects and conduct new ideas independently. Once again, similar to Google Docs, Git allows you to collaborate with other people in a specific project indicating what each person has contributed to that work. 
