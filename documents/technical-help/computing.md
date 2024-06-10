@@ -153,7 +153,11 @@ Github has many advantages at the individual but also at the group level:
 > You might be discouraged to use GitHub thinking that everyone will be able to see your code, which you might not be very proud of. However, you can make all your code PRIVATE! and only share it with others once you are satisfied.
 
 #### Github sounds amazing. How do I start?
+Luckily, there are a lot of resources online to start using Github. 
 
+
+
+- [Software Carpentry Git Novice](https://swcarpentry.github.io/git-novice/) - Great resource to get up to speed on using Git. Recommended by many data scientists. 
 
 
 
