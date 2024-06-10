@@ -155,11 +155,18 @@ Github has many advantages at the individual but also at the group level:
 #### Github sounds amazing. How do I start?
 Luckily, there are a lot of resources online to start using Github. 
 
+First and foremost:
+* [How to Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
+Tutorials:
 
-- [Software Carpentry Git Novice](https://swcarpentry.github.io/git-novice/) - Great resource to get up to speed on using Git. Recommended by many data scientists. 
+- [Github's Tutorials](https://docs.github.com/en/get-started) - The obvious first option to mention is Github's own documentation website. They have very clear explanations and tutorials on how to use Github efficiently.
 
+- [Data Camp](https://tinyurl.com/4dz84h6y) - DataCamp has a great interactive tutorial on what GitHub is and how to use it. It also includes a module on shell scripting, which means you would be killing two birds with one stone!
 
+- [Software Carpentry Git Novice](https://swcarpentry.github.io/git-novice/) - Great resource to get up to speed on using Git. Recommended by many data scientists as one of the best ways of learning Git. 
+
+- [Donders Institute Agenda](https://www.ru.nl/en/donders-institute/agenda) - The Donders organizes different workshops throughout the year in which they often include introductions to Github. The next one will occur at the Graduate Day of the Donders Institute. We recommend keeping an eye in the agenda linked above. 
 
 
 
