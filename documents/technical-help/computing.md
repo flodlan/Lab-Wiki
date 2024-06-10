@@ -7,6 +7,7 @@ nav_order: 2
 ---
 
 # Software
+{:toc}
 
 This section will provide you with useful information on resources and tools you can use for programming and analyzing data. The focus will be on providing an overview of important general purpose software that lies at the core of a lot of the analysis and work done by the members of the Predictive Brain Lab. 
 
@@ -100,11 +101,11 @@ R also contains [RMarkdown](https://rmarkdown.rstudio.com/), which is a format f
 
 #### Starting with R
 
-One of the main contributors to the programming language R, [Hadley Wickham](https://hadley.nz/), has created a very useful and interactive book to teach you to do data science with R. It goes throuhg how to use it, look at structures, transform and visualize them. 
+One of the main contributors to the programming language R, [Hadley Wickham](https://hadley.nz/), has created a very useful and interactive book to teach you to do data science with R. It goes through how to use it, look at structures, transform and visualize them. 
 
 * [R for Data Science (2e) - Wickham ](https://r4ds.hadley.nz/)
 
-There is a different way of doing R called the tidy way. This is super useful for organizing your data, reproducibility and doing your statistical analysis. While the resource above contains information on how to use this 'tidyverse', the following book is focused on learning how to use R in a tidy way.
+There is a different way of doing R called the tidy way. This is super useful for organizing your data, reproducibility and doing your statistical analysis. While the resource above contains some information on how to use this 'tidyverse', the following book is **focused** on learning how to use R in a tidy way.
 
 * [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse (2024)](https://moderndive.com/index.html)
 
