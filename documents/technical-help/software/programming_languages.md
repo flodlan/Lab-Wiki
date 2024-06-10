@@ -6,6 +6,10 @@ grand_parent: Technical Help
 nav_order: 1
 ---
 
+- [Python](#python)
+- [MATLAB](#matlab)
+- [R ](#r)
+
 ## Programming Languages
 ### Python
 Python is a general-purpose, open-source programming language known for its simple syntax, easy readability, and efficient commands. It has become the standard in most technical fields, including deep learning, due to its advanced capabilities. 
