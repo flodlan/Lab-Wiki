@@ -7,13 +7,13 @@ nav_order: 2
 ---
 
 # Software
+
+This section will provide you with useful information on resources and tools you can use for programming and analyzing data. The focus will be on providing an overview of important general purpose software that lies at the core of a lot of the analysis and work done by the members of the Predictive Brain Lab. 
+
 - [Programming Languages](#programming-languages)
   - [Python](#python)
   - [MATLAB](#matlab)
   - [R ](#r)
-
-
-This section will provide you with useful information on resources and tools you can use for programming and analyzing data. The focus will be on providing an overview of important general purpose software that lies at the core of a lot of the analysis and work done by the members of the Predictive Brain Lab. 
 
 ## Programming Languages
 ### Python
@@ -130,7 +130,6 @@ If none of these materials seem to suit your needs, the Radboud University offer
 * [Introduction to Data Science with R and Rstudio](https://www.ru.nl/en/education/education-for-professionals/overview/introduction-to-data-science-with-r-and-rstudio-rss301-confirmed)
 * [Introduction into R](https://www.ru.nl/en/education/education-for-professionals/overview/introduction-into-r-rss209-confirmed)
 * Crash Course in R – A Gentle Introduction (https://www.ru.nl/en/education/education-for-professionals/overview/crash-course-in-r-a-gentle-introduction-rss0006-confirmed)
-
 
 
 
