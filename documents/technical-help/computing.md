@@ -14,6 +14,8 @@ This section will provide you with useful information on resources and tools you
   - [Python](#python)
   - [MATLAB](#matlab)
   - [R ](#r)
+- [Reproducible (and Efficient) Coding](#reproducible-and-efficient-coding)
+  - [GitHub](#github) 
 
 ## Programming Languages
 ### Python
@@ -130,6 +132,31 @@ If none of these materials seem to suit your needs, the Radboud University offer
 * [Introduction to Data Science with R and Rstudio](https://www.ru.nl/en/education/education-for-professionals/overview/introduction-to-data-science-with-r-and-rstudio-rss301-confirmed)
 * [Introduction into R](https://www.ru.nl/en/education/education-for-professionals/overview/introduction-into-r-rss209-confirmed)
 * Crash Course in R – A Gentle Introduction (https://www.ru.nl/en/education/education-for-professionals/overview/crash-course-in-r-a-gentle-introduction-rss0006-confirmed)
+
+
+## Reproducible (and Efficient) Coding 
+### GitHub
+#### What is Github?
+Git is a software that allows you to do version control of your scripts and files in detail. What version control does is that each time you modify your code, it saves a version of how the code looked like before that modification. In this way, it allows you to go back to how your files looked like before certain changes happened (similar to how Google Docs works). Another advantage of Git, is that is makes it easier to work together on projects and conduct new ideas independently. Once again, similar to Google Docs, Git allows you to collaborate with other people in a specific project indicating what each person has contributed to that work. 
+
+**Importantly, Git and Github are not the same thing.** Github, which is based on Git, is an online platform that makes working together easier. It provides you with a direct way of sharing your projects online with colleagues and the outside world. 
+
+##### Why would I use Github?
+
+Github has many advantages at the individual but also at the group level:
+- It allows you to keep the code and files for your project organized (without having a billion files names `project_X_V1`, `project_X_V2`, `project_X_V2_good`, etc...)
+- It allows you to have a place in which you can go back to previous code in case something breaks in a very easy way
+- Straightforward way to share your projects online with colleagues and the outside world
+- It allows you to find, develop and publish analysis scripts and research software. Other developers and researchers can then use and adapt these in turn (_e.g.,_ you might find specific toolboxes or code that provide you with information on how to perform certain analysis)
+
+{: .important }
+> You might be discouraged to use GitHub thinking that everyone will be able to see your code, which you might not be very proud of. However, you can make all your code PRIVATE! and only share it with others once you are satisfied.
+
+#### Github sounds amazing. How do I start?
+
+
+
+
 
 
 
