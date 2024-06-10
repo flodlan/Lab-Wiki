@@ -17,6 +17,7 @@ This section will provide you with useful information on resources and tools you
 - [Reproducible (and Efficient) Coding](#reproducible-and-efficient-coding)
   - [GitHub](#github)
   - [The Unix Shell](#the-unix-shell)
+  - [Writing Code](#writing-code)
 
 ## Programming Languages
 ### Python
@@ -179,6 +180,19 @@ We will highlight some resources that you might find useful to learn how to inte
 
 * [Data Camps](https://app.datacamp.com/learn/courses/introduction-to-shell) - They have interactive tutorials full of exercises to master the basics of the shell. Highly recommended by some of our lab members.
 
-* [HPC Wiki Tutorials](https://hpc.dccn.nl/docs/linux/index.html) - The people from the TG that maintain the HPC Cluster from the Donders, created a introductory tutorial on how to use Linux and the shell terminal. This should provide you with basic information on shell that can be applied to other situations besides using the cluster. The advantage is that by doing this tutorial you will have all the necessary information for the cluster. 
+* [HPC Wiki Tutorials](https://hpc.dccn.nl/docs/linux/index.html) - The people from the TG that maintain the HPC Cluster from the Donders, created a introductory tutorial on how to use Linux and the shell terminal. This should provide you with basic information on shell that can be applied to other situations besides using the cluster. The advantage is that by doing this tutorial you will have all the necessary shell scriptings skills for running jobs on the cluster. 
+
+### Writing Code
+
+Code is often written without annotations, modularity, and generality, leading to scripts with hard-coded parameters that are difficult to reproduce or adapt. Poor organization and ignoring coding conventions increase the likelihood of bugs and make debugging harder. This can result in numerous questions if you share your code or difficulties understanding your past work.
+
+Fortunately, resources are available to improve your coding practices, enhancing reproducibility for both the scientific community (which as part of the Donders you are commited to) and yourself. Here are a few to get you started:
+
+* [The Good Research Code Handbook by Patrick Mineault](https://goodresearch.dev/index.html) - Handbook created by [Patrick Mineault](https://xcorr.net/about/) with a series of coding principles that should improve the way your organize your data
+
+* [Lightweight guidelines for code and data sharing by Sam Gersham](https://gershmanlab.com/docs/Sharing.pdf) - A series of concise guidelines that should already help you organize your code and data more efficiently. 
+
+
+### Reference Management Tools 
 
 
