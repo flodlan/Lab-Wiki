@@ -1,13 +1,20 @@
 ---
 layout: default
-title: Preregistration
+title: Preregistration and Reproducibility
 parent: Standard Operating Procedures
 grand_parent: Lab Basics
 nav_order: 3
 ---
 
-## Preregistration
-For the Predictive Lab's stance on Open Science practices and preregistration please refer to our [handbook](https://drive.google.com/file/d/1KwMbSAT4MfGEZaZtAyrChnOH4KTHIkmy/view)
+## Preregistration and Reproducibility
+For the Predictive Lab's stance on Open Science practices and preregistration please refer to our [handbook](https://drive.google.com/file/d/1RMTpcPl8lwJ6Ozf3QIlTaehedsL_tSUC/view)
+
+Any project analysis script should be easily reproducible by other lab members or external parties. Hence, we try to always write code with the assumption that someone else will have to reproduce it without assistance. If you require a nudge on how to organize your code, look at [this section]({% link documents/technical-help/software/reproducible_code.md %}) of the wiki on coding practices. 
+
+
+
+# Preregistration
+
 
 In the lab we use two different platforms to preregister our studies:
 1. [As Predicted](https://aspredicted.org/)
