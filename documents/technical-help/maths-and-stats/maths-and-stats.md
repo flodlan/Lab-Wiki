@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Software
+title: Maths and Stats
 parent: Technical Help
 has_children: false
 nav_order: 3
 ---
+
