@@ -13,13 +13,15 @@ This page provides a collection of resources we think are very useful for learni
 
 ## Statistics 
 
-### Frequentist
+* [Statistics and Data Analysis in MATLAB by Kendrick Kay](https://www.cmrr.umn.edu/~kendrick/statsmatlab/) - Great comprehensive tutorial to get up to speed on statistics using MATLAB. It teaches you the core of statistics through interactive MATLAB exercises. Kendrick Kay is a very respected neuroscientist in the field of vision.
+
+* [Statistical Concepts via Matlab by Jill O'Reilly](https://users.ox.ac.uk/~wadh1102/tutorials/MATLAB/matlabTopPage.html) - Similar to the one above. It provides an alternative on a comprehensive tutorial to navigate core statistical concepts using MATLAB.
 
 * [Discovering Statistics Using R (Andy Field)](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067) - There is probably not a better book to learn the core statistical analysis performed in Experimental Psychology than Andy Field's book. Clear explanations, together with exercises, will ensure you master all these skills in no time.
 
 * [Multivariate analysis for the behavioral sciences (Vehkalahti)](https://www.routledge.com/Multivariate-Analysis-for-the-Behavioral-Sciences-Second-Edition/Vehkalahti-Everitt/p/book/9780367656751) - Taking it a step further, this book covers statistical concepts in more depth, providing you with the necessary knowledge to flexibly adjust these concepts to your own analysis. It requires familiarity with statistical analysis to be understood.
 
-### Bayesian
+### Bayesian Focused
 
 * [A Student’s Guide to Bayesian Statistics (Lambert)](https://sites.math.rutgers.edu/~zeilberg/EM20/Lambert.pdf) - If you want to expand your knowledge beyond frequentist statistics, this book is the perfect introduction to Bayesian statistics.
   * [Bayesian Inference from the Ground Up: A Theory of Common Sense](https://www.bayesianspectacles.org/wp-content/uploads/2023/11/Bayesian_Inference_From_The_Ground_Up_draft.pdf)  - this is an alternative to the book mentioned above
