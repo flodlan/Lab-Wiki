@@ -39,6 +39,7 @@ This page provides a collection of resources we think are very useful for learni
  * [Pattern Recognition and Machine Learning](https://link.springer.com/book/10.1007/978-0-387-45528-0) - If you want to go even a step further, this is considered by many (especially in the AI field) as the best introduction to machine learning. It does require you to have a good mathematical foundation. Hence, if you want to dive into the field but not feel yet fully confident, we recommend trying one of the other two alternatives.
 
 ## Mathematics 
+
 ### Linear Algebra
 
 * [Mike Cohen's Linear Algebra](https://www.udemy.com/linear-algebra-theory-and-implementation/?couponCode=LINALGPX7) - Amazing resource to master linear algebra without any mathematical training. The link provided includes a large discount on the course
@@ -53,4 +54,9 @@ This page provides a collection of resources we think are very useful for learni
 
 ### Probability Theory
 
-* [MCMC sampling for dummies](https://twiecki.io/blog/2015/11/10/mcmc-sampling/) - amazing, hands-on Python tutorial on Markov Chain Monte Carlo with very clear explanations on the topic. 
+* [MCMC sampling for dummies](https://twiecki.io/blog/2015/11/10/mcmc-sampling/) - amazing, hands-on Python tutorial on Markov Chain Monte Carlo with very clear explanations on the topic.
+
+### Extra
+
+* [Understanding Convolutions](https://betterexplained.com/articles/intuitive-convolution/) - A very intuitive and extensive blogpost to understand what convolutions actually do 
+
