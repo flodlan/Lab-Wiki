@@ -7,22 +7,29 @@ nav_order: 3
 ---
 
 # Mathematical and Statistical Resources
-Statistical and mathematical analysis lay at the core of most of the work we produce as neuroscientists. Hence, it is not a surpirse that since undergraduate training there is an emphasis in properly understanding concepts from these two disciplines. However, it still happens that we come across new analysis or methods that require us to expand our mathematical knowledge. Lucky for us, the internet is full of great tutorials that can help us fill these gaps in knowledge. 
+Statistical and mathematical analyses lay at the core of most of the work we produce as neuroscientists. Hence, it is not a surprise that, since undergraduate training, there is an emphasis on properly understanding concepts from these two disciplines. However, it still happens that we come across new analysis or methods that require us to expand our mathematical knowledge. Fortunately, the internet is full of great tutorials that can help us fill these gaps in knowledge.
 
-The current page provides a bunch of resources we think are very useful to learn some of these skills:
+This page provides a collection of resources we think are very useful for learning some of these skills:
 
 ## Statistics 
 
 ### Frequentist
-* [Discovering Statistics Using R (Andy Field)](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067) - There is probably not a better book to learn the core statistical analysis performed in Psychology than Andy Field's book. Clear explanations together with exercises that will ensure you master all these skills in no time. 
 
-* [Multivariate analysis for the behavioral sciences (Vehkalahti)](https://www.routledge.com/Multivariate-Analysis-for-the-Behavioral-Sciences-Second-Edition/Vehkalahti-Everitt/p/book/9780367656751) - Taking it a step further. The book covers statistical concepts more in depth, providing you with the necessary knowledge to flexible adjust these concepts to your own analysis. It requires familiarity with statistical analysis to be understood. 
+* [Discovering Statistics Using R (Andy Field)](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067) - There is probably not a better book to learn the core statistical analysis performed in Experimental Psychology than Andy Field's book. Clear explanations, together with exercises, will ensure you master all these skills in no time.
+
+* [Multivariate analysis for the behavioral sciences (Vehkalahti)](https://www.routledge.com/Multivariate-Analysis-for-the-Behavioral-Sciences-Second-Edition/Vehkalahti-Everitt/p/book/9780367656751) - Taking it a step further, this book covers statistical concepts in more depth, providing you with the necessary knowledge to flexibly adjust these concepts to your own analysis. It requires familiarity with statistical analysis to be understood.
 
 ### Bayesian
-* [A Student’s Guide to Bayesian Statistics (Lambert)](https://sites.math.rutgers.edu/~zeilberg/EM20/Lambert.pdf) - If you are looking for expanding your knowledge of other than frequentist statistics, this book is the perfect way to start. Providing a great introduction to Bayesian statistics.
-  * [Bayesian Inference from the Ground Up: A Theory of Common Sense](https://www.bayesianspectacles.org/wp-content/uploads/2023/11/Bayesian_Inference_From_The_Ground_Up_draft.pdf)   
 
-* [JASP Tutorials](https://jasp-stats.org/resources/) - JASP is a statistical analysis software focused on allowing you to do Bayesian statistics in an intuitive easy fashion. The creators of it, provide multiple explanations and tutorials on the different types of Bayesian (and frequentist) analysis you can perform. It is also a great starting point if you are not looking to completely master Bayesian statistics.
+* [A Student’s Guide to Bayesian Statistics (Lambert)](https://sites.math.rutgers.edu/~zeilberg/EM20/Lambert.pdf) - If you want to expand your knowledge beyond frequentist statistics, this book is the perfect introduction to Bayesian statistics.
+  * [Bayesian Inference from the Ground Up: A Theory of Common Sense](https://www.bayesianspectacles.org/wp-content/uploads/2023/11/Bayesian_Inference_From_The_Ground_Up_draft.pdf)  - this is an alternative to the book mentioned above
+
+* [JASP Tutorials](https://jasp-stats.org/resources/) - JASP is a statistical analysis software focused on allowing you to do Bayesian statistics in an intuitive fashion. The creators of it, provide multiple explanations and tutorials on the different types of Bayesian (and frequentist) analysis you can perform using their software. It is also a great starting point if you are not looking to completely master Bayesian statistics.
+
+#### _EXTRA_
+* [Probabilistic Programming & Bayesian Methods for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - is a free online intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view.
+ * [BAYESIAN MODELING, DATA SCIENCE, & PYTHON](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+
 
 ### Good Old Machine Learning
 
@@ -32,4 +39,18 @@ The current page provides a bunch of resources we think are very useful to learn
  * [Pattern Recognition and Machine Learning](https://link.springer.com/book/10.1007/978-0-387-45528-0) - If you want to go even a step further, this is considered by many (especially in the AI field) as the best introduction to machine learning. It does require you to have a good mathematical foundation. Hence, if you want to dive into the field but not feel yet fully confident, we recommend trying one of the other two alternatives.
 
 ## Mathematics 
+### Linear Algebra
 
+* [Mike Cohen's Linear Algebra](https://www.udemy.com/linear-algebra-theory-and-implementation/?couponCode=LINALGPX7) - Amazing resource to master linear algebra without any mathematical training. The link provided includes a large discount on the course
+* [3 Blue 1 Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Their series of linear algebra videos will help you develop a intuitive geometric understanding of core topics in linear algebra. We recommend their Youtube channel to understand mathematical concepts in general
+* [Khan Academy](https://www.khanacademy.org/math/linear-algebra) - They are at the forefront of mathematical tutorials online. They provide clear explanations on a variety of topics, including linear algebra.
+* [Mathematical Tools for Neuroscience by Ella Batty](https://github.com/ebatty/MathToolsforNeuroscience?tab=readme-ov-file) - a Python Jupyter notebook including interactive exercises to master the important concepts in linear algebra for neuroscience
+
+### Calculus
+* [3 Blue 1 Brown: Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) - Great series of videos to sharpen your intuitions and get a deeper understanding of calculus.
+* [Khan Academy: Calculus 1](https://www.khanacademy.org/math/calculus-1) - Series of lectures with thorough explanations of the most important concepts in calculus.
+* [Khan Academy: Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) - Great course for someone looking for more advanced information. Perfect to develop/refresh your foundations to understand gradient minimisations or prove convergence theorems.
+
+### Probability Theory
+
+* [MCMC sampling for dummies](https://twiecki.io/blog/2015/11/10/mcmc-sampling/) - amazing, hands-on Python tutorial on Markov Chain Monte Carlo with very clear explanations on the topic. 
