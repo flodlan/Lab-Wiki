@@ -9,7 +9,15 @@ nav_order: 3
 ## Preregistration and Reproducibility
 For the Predictive Lab's stance on Open Science practices and preregistration please refer to our [handbook](https://drive.google.com/file/d/1RMTpcPl8lwJ6Ozf3QIlTaehedsL_tSUC/view)
 
-Any project analysis script should be easily reproducible by other lab members or external parties. Hence, we try to always write code with the assumption that someone else will have to reproduce it without assistance. If you require a nudge on how to organize your code, look at [this section]({% link documents/technical-help/software/reproducible_code.md %}) of the wiki on coding practices. 
+Any project analysis script should be easily reproducible by other lab members or external parties. Hence, we try to always write code with the assumption that someone else will have to reproduce it without assistance. If you require a nudge on how to organize your code, look at [the writing code section]({% link documents/technical-help/software/reproducible_code.md %}) of the wiki on efficient coding practices. 
+
+The research data for members of the DCCN should be findable and accessible. This can largely be achieved by actively archiving and publishing data via the Radboud Data Repository (RDR), under an appropriate license and access level, and by annotating the data with rich metadata. A major goal of the Donders Institute is to preserve and share research data for the long term. Hence, every researcher at the DCCN is nudged to make their data publicly available ([exceptions exist](https://www.ru.nl/rdm/vm/policy-documents/)). 
+
+The regulations on Research Data Management from the Radboud University can be found [here](https://www.ru.nl/rdm/vm/policy-documents/) and those specific for members of the DCCN [here](https://intranet.donders.ru.nl/index.php?id=6467).
+
+
+
+
 
 
 
