@@ -17,6 +17,15 @@ The regulations on Research Data Management from the Radboud University can be f
 
 
 
+### UNDER CONSTRUCTION
+When finalizing a study, the raw data, stimulus material, experiment scripts and analysis scripts should be uploaded to a Data Sharing Collection (DSC). For more information on research data management see here and here. When preparing a manuscript for publication, you should include a link to the DSC in a data availability statement within the manuscript.
+
+Preprint: You should include a general statement that the data and code will be shared. Example: "Data and code will be made available on the Donders Institute for Brain, Cognition and Behavior repository (https://data.donders.ru.nl/)."
+
+Journal submission: Switch the status of the DSC to "reviewable external". Then include the reviewer link in the data availability statement of the manuscript before submitting to a journal. Example: "Data and code are available from the Donders Institute for Brain, Cognition and Behavior repository at https://data.donders.ru.nl/login/reviewer-68224366/4OBcpDMRsC8DhYPM-C4Pk5B4GAw1eB5R6Ac76OfiFsl." Note that this link is not meant for sharing the data for research purposes, but only for review.
+
+Upon Acceptance: Switch the status of the DSC to "published" (not reversible!). Then exchange the reviewer link in the data availability statement with the persistent identifier of the published DSC. Example: "Data and code are available from the Donders Institute for Brain, Cognition and Behavior repository at http://hdl.handle.net/11633/di.dccn.DSC_3018029.03_140."
+
 
 
 
