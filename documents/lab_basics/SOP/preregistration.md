@@ -9,27 +9,7 @@ nav_order: 3
 ## Preregistration and Reproducibility
 For the Predictive Lab's stance on Open Science practices and preregistration please refer to our [handbook](https://drive.google.com/file/d/1RMTpcPl8lwJ6Ozf3QIlTaehedsL_tSUC/view)
 
-Any project analysis script should be easily reproducible by other lab members or external parties. Hence, we try to always write code with the assumption that someone else will have to reproduce it without assistance. If you require a nudge on how to organize your code, look at [the writing code section]({% link documents/technical-help/software/reproducible_code.md %}) of the wiki on efficient coding practices. 
-
-The research data for members of the DCCN should be findable and accessible. This can largely be achieved by actively archiving and publishing data via the Radboud Data Repository (RDR), under an appropriate license and access level, and by annotating the data with rich metadata. A major goal of the Donders Institute is to preserve and share research data for the long term. Hence, every researcher at the DCCN is nudged to make their data publicly available ([exceptions exist](https://www.ru.nl/rdm/vm/policy-documents/)). 
-
-The regulations on Research Data Management from the Radboud University can be found [here](https://www.ru.nl/rdm/vm/policy-documents/) and those specific for members of the DCCN [here](https://intranet.donders.ru.nl/index.php?id=6467).
-
-
-
-### UNDER CONSTRUCTION
-When finalizing a study, the raw data, stimulus material, experiment scripts and analysis scripts should be uploaded to a Data Sharing Collection (DSC). For more information on research data management see here and here. When preparing a manuscript for publication, you should include a link to the DSC in a data availability statement within the manuscript.
-
-Preprint: You should include a general statement that the data and code will be shared. Example: "Data and code will be made available on the Donders Institute for Brain, Cognition and Behavior repository (https://data.donders.ru.nl/)."
-
-Journal submission: Switch the status of the DSC to "reviewable external". Then include the reviewer link in the data availability statement of the manuscript before submitting to a journal. Example: "Data and code are available from the Donders Institute for Brain, Cognition and Behavior repository at https://data.donders.ru.nl/login/reviewer-68224366/4OBcpDMRsC8DhYPM-C4Pk5B4GAw1eB5R6Ac76OfiFsl." Note that this link is not meant for sharing the data for research purposes, but only for review.
-
-Upon Acceptance: Switch the status of the DSC to "published" (not reversible!). Then exchange the reviewer link in the data availability statement with the persistent identifier of the published DSC. Example: "Data and code are available from the Donders Institute for Brain, Cognition and Behavior repository at http://hdl.handle.net/11633/di.dccn.DSC_3018029.03_140."
-
-
-
-
-
+### Preregistration
 # Preregistration
 
 
@@ -74,3 +54,38 @@ The following three links are examples of pre-registered studies in the lab usin
 * Matthias Fritsche - [The role of feature-based attention for serial dependence in perceptual decision making](https://osf.io/q7gj3/)
 * Chuyao Yan - [Predicting groups of objects in the visual ventral stream](https://osf.io/s59p6)
 * Jonas Karolis Degutis - [Laminar fMRI at 3T: A replication attempt of top-down and bottom-up laminar activity in the early visual cortex](https://osf.io/txuye/)
+
+
+### Reproducibility
+
+Any project analysis script should be easily reproducible by other lab members or external parties. Hence, we try to always write code with the assumption that someone else will have to reproduce it without assistance. If you require a nudge on how to organize your code, look at [the writing code section]({% link documents/technical-help/software/reproducible_code.md %}) of the wiki on efficient coding practices. 
+
+As an institute policy the research data for members of the DCCN should be findable and accessible. This can largely be achieved by actively archiving and publishing data via the Radboud Data Repository (RDR), under an appropriate license and access level, and by annotating the data with rich metadata. A major goal of the Donders Institute is to preserve and share research data for the long term. Hence, every researcher at the DCCN is nudged to make their data publicly available ([exceptions exist](https://www.ru.nl/rdm/vm/policy-documents/)). 
+
+The regulations on Research Data Management (RDM) from the Radboud University can be found [here](https://www.ru.nl/rdm/vm/policy-documents/) and those specific for members of the DCCN [here](https://intranet.donders.ru.nl/index.php?id=6467). To faciliate the process of understanding RDM at the Donders, the staff is constructing a handbook so you have all the relevant information there. You can find the page [here](https://rdm.dccn.nl/)
+
+{.note}
+> The handbook page for the RDM is still under construction. So we recommend looking at the two other pages highlighted before to get a full picture of RDM processes.
+
+#### How to Up/Download Data and Manage Collections
+
+##### First Step: Request New Collection
+[This page](https://intranet.donders.ru.nl/index.php?id=6788) provides you with extensive explanations about RDM when starting a project.
+
+In short, the planning phase of the research project provides the opportunity to prepare many RDM-related aspects before any data is acquired or analyzed. At DCCN, the project planning phase is concluded with a presentation of project plans during a PPM and approval of the associated project proposal form. A Data Acquisition Collection (DAC) will be automatically created after your PPM presentation.
+
+{.note}
+> You have to log into the [web interface](https://data.donders.ru.nl/) once, prior to your PPM, for the administration to find you in the system.
+
+In order to obtain a Research Documentation Collection (RDC) and Data Sharing Collection (DSC) you need to fill out this [request form](https://intranet.donders.ru.nl/index.php?id=donders-repository-request-form) on the DCCN intranet. You will typically need to request these collections after data acquisition/during analysis (RDC) and before publishing a paper containing the link to the shared data (DSC).
+
+
+
+### UNDER CONSTRUCTION
+When finalizing a study, the raw data, stimulus material, experiment scripts and analysis scripts should be uploaded to a Data Sharing Collection (DSC). For more information on research data management see here and here. When preparing a manuscript for publication, you should include a link to the DSC in a data availability statement within the manuscript.
+
+Preprint: You should include a general statement that the data and code will be shared. Example: "Data and code will be made available on the Donders Institute for Brain, Cognition and Behavior repository (https://data.donders.ru.nl/)."
+
+Journal submission: Switch the status of the DSC to "reviewable external". Then include the reviewer link in the data availability statement of the manuscript before submitting to a journal. Example: "Data and code are available from the Donders Institute for Brain, Cognition and Behavior repository at https://data.donders.ru.nl/login/reviewer-68224366/4OBcpDMRsC8DhYPM-C4Pk5B4GAw1eB5R6Ac76OfiFsl." Note that this link is not meant for sharing the data for research purposes, but only for review.
+
+Upon Acceptance: Switch the status of the DSC to "published" (not reversible!). Then exchange the reviewer link in the data availability statement with the persistent identifier of the published DSC. Example: "Data and code are available from the Donders Institute for Brain, Cognition and Behavior repository at http://hdl.handle.net/11633/di.dccn.DSC_3018029.03_140."
