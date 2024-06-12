@@ -57,7 +57,7 @@ On your local machine, open a new terminal and SSH into the compute node where y
 
 `ssh -L 8888:dccn-c012.dccn.nl:8888 michei@ssh.fcdonders.nl -p 10990`
 
-Here 8888 is the port of your jupyter notebook and dccn-c012 is the compute node your job is running.
+Here `8888` is the port of your jupyter notebook and `dccn-c012` is the compute node your job is running.
 
 {: .note}
 > If you want to reconnect later, assuming the interactive job is still running, all previous steps can be skipped and you can go to step 7) directly.
