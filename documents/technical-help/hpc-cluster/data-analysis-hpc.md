@@ -26,6 +26,13 @@ Our lab member Maartje Koot created a small tutorial on setting up PyCharm Pro t
 2.	[VSCode](https://code.visualstudio.com/) -- is a cross-platform source-code editor made by Microsoft. It is great for laptops that do not have a lot of memory/RAM as it is a very light app. [This page](https://hpc.dccn.nl/docs/cluster_howto/ide-vscode.html) contains information on connecting your local VSCode to the cluster server.
 The developers of VSCode also have official documentation on how to do this [here](https://code.visualstudio.com/docs/remote/tunneling). 
 
+### Running Jupyter/iPython Notebooks Remotely
+If you are using iPython/Jupyter Notebook to do your data analysis, it is great to be able to edit and run them just like you would in your own computer, even if your data are stored on the cluster. The main advantage of this approach is that you can work with data on the cluster without rendering an entire virtual desktop through a VNC viewer (which might be too demanding).
+
+The process may appear involved at first but after a couple of times of doing it, it becomes very quick and easy, much like connecting to the cluster. To make things even better, you can use bash scripts to automate some of these steps. 
+
+You can find a step-by-step guide [here]({% documents/technical-help/hpc-cluster/jupyter-cluster.md %})
+
 ## Data Analysis in Parallel 
 
 This section can be thought of as a _tips and tricks_ for a specific situation: you have collected data from **multiple subjects** and you want to perform an **analysis** on each subject’s data independently. Using some of the resources above, especially knowledge of bash, you can run all these analyses in parallel and avoid running each one of them script-by-script. 
