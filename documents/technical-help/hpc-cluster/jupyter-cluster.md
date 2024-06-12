@@ -33,7 +33,7 @@ By default your notebook will run in the default python environment. If you have
 
 `source activate [environment_name]`
 
-## Step 5) Start the Notebook
+## Step 5: Start the Notebook
 Still in the terminal on the cluster, go to a directory of interest:
 
 `cd /projects/dir_of_interest/`
@@ -47,11 +47,11 @@ In that directory, launch the notebook:
 
 This will generate some lines and a token, looking something like this:
 
-![jupyer-cluster-output](./jupyer-cluster/png)
+![jupyer-cluster-output](./jupyer-cluster.png)
 
 Copy the token (i.e. the string after "token=") and remember the name of the compute node (dccn-c012 in this example), and the port (8888 in this example).
 
-## Step 6) Connect to Compute Node
+## Step 6: Connect to Compute Node
 
 On your local machine, open a new terminal and SSH into the compute node where your interactive job is running:
 
@@ -65,7 +65,7 @@ Here 8888 is the port of your jupyter notebook and dccn-c012 is the compute node
 {: .important}
 > If you are working on your desktop from WITHIN DCCN, this step is not necessary and you can just open your browser (from windows so not on a virtual desktop) and enter [compute name]:[port] in the browser url bar, e.g. https://dccn-c012.dccn.nl:8888
 
-## Step 7) Open your Browser and Go to the Notebook
+## Step 7: Open your Browser and Go to the Notebook
 On your remote computer, open a browser of interest and for URL type in:
 
 `localhost:8888`
