@@ -31,7 +31,7 @@ If you are using iPython/Jupyter Notebook to do your data analysis, it is great 
 
 The process may appear involved at first but after a couple of times of doing it, it becomes very quick and easy, much like connecting to the cluster. To make things even better, you can use bash scripts to automate some of these steps. 
 
-You can find a step-by-step guide [here]({% documents/technical-help/hpc-cluster/jupyter-cluster.md %})
+You can find a step-by-step guide [here]({% link documents/technical-help/hpc-cluster/jupyter-cluster.md %})
 
 ## Data Analysis in Parallel 
 
