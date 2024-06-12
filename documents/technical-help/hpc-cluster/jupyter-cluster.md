@@ -47,7 +47,7 @@ In that directory, launch the notebook:
 
 This will generate some lines and a token, looking something like this:
 
-![jupyer-cluster-output](./jupyer-cluster.png)
+![jupyer-cluster-output](./jupyter-cluster-img.png)
 
 Copy the token (i.e. the string after "token=") and remember the name of the compute node (dccn-c012 in this example), and the port (8888 in this example).
 
