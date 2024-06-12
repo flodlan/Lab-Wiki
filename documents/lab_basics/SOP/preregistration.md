@@ -55,7 +55,7 @@ The following three links are examples of pre-registered studies in the lab usin
 * Jonas Karolis Degutis - [Laminar fMRI at 3T: A replication attempt of top-down and bottom-up laminar activity in the early visual cortex](https://osf.io/txuye/)
 
 
-## Reproducibility
+## Reproducibility and the Radboud Data Repository 
 
 Any project analysis script should be easily reproducible by other lab members or external parties. Hence, we try to always write code with the assumption that someone else will have to reproduce it without assistance. If you require a nudge on how to organize your code, look at [the writing code section]({% link documents/technical-help/software/reproducible_code.md %}) of the wiki on efficient coding practices. 
 
