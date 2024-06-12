@@ -39,7 +39,7 @@ Still in the terminal on the cluster, go to a directory of interest:
 `cd /projects/dir_of_interest/`
 
 {: .note}
->T his directory will be the root of the jupyter kernel, meaning that from the notebook you won't be able to access any notebooks or view files in 'higher' directories than this. Typically you would therefore want to use the root of your project folder.
+> This directory will be the root of the jupyter kernel, meaning that from the notebook you won't be able to access any notebooks or view files in 'higher' directories than this. Typically you would therefore want to use the root of your project folder.
 
 In that directory, launch the notebook:
 
