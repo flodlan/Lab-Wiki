@@ -42,4 +42,5 @@ It combines tools from well-known software packages for analyzing this type of d
 
 The advantage of using this tool is that developers are constantly optimizing the pipeline. Modifying the preprocessing steps for it to match with the software that currently performs these steps as best as possible. Additionally, it automatizes and parallelizes processing steps, which provides a significant speed-up from manual processing or shell-scripted pipelines.
 
-
+## Standard Analysis
+### Univariate Analysis 
