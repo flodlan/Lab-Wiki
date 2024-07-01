@@ -101,5 +101,6 @@ After completing a study, the raw data, stimulus material and both your experime
 * Journal Submission: Change the DSC repository states to “reviewable external” and include the reviewer link in the data availability statement of the manuscript. Note that this link is not meant for sharing the data for research purposes, but only for review.
 * Upon Acceptance: Change the DSC repository status to “published” (irreversible!) and the link included in the data availability statement of the manuscript
 
-
+{: .note }
+> While not a common practice in the lab yet, we are striving to share code and resources also through [GitHub](https://github.com/) (as it is increasingly more common in many different fields) 
 
