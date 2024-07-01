@@ -8,7 +8,8 @@ nav_order: 2
 # BIDS Documentation 
 [BIDS](http://bids.neuroimaging.io/) describes a format to organize neuroimaging and behavioural data (_i.e.,_ a folder structure, naming structure, etc.) It is mandatory for members of the Predictive Brain Lab to use this format. 
 
-**What tool can we use to do this?** To conver the raw data (DICOM) automatically to the BIDS format, you can use the [bidscoin tool](https://github.com/Donders-Institute/bidscoin). Their website contains information on how to exactly do this. 
+#### What tool can we use to do this?
+To conver the raw data (DICOM) automatically to the BIDS format, you can use the [Bidscoin tool](https://github.com/Donders-Institute/bidscoin). Their website contains information on how to exactly do this. 
 
 # fMRI Analysis
 Once you have converted the raw data files to NIFTI using BIDScoin, you can proceed with the data processing steps.
