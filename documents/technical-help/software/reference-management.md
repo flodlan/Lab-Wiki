@@ -22,7 +22,7 @@ There are other reference tools besides Zotero (_e.g.,_ Mendeley), but we recomm
 
 #### Zotero and One Drive: Your Library in the Cloud
 
-**Step 1: Instruct Zotero to store PDFs in Dropbox**
+**Step 1: Instruct Zotero to store PDFs in OneDrive**
 1. Open Zotero.
 2. Edit -> Preferences -> Advanced -> Files and Folders
 3. At 'Base directory', choose a folder that lives inside your OneDrive (you might need to create it first), e.g. "C:\Users\eelspa\OneDrive (Personal)\Zotero PDF" in my case.
