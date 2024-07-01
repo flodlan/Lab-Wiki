@@ -6,23 +6,25 @@ nav_order: 2
 ---
 
 # BIDS Documentation 
-[BIDS](http://bids.neuroimaging.io/) describes a format to organize neuroimaging and behavioural data (_i.e.,_ a folder structure, naming structure, etc.) It is mandatory for members of the Predictive Brain Lab to use this format. 
+The data that results from neuroimaging experiments is complex and can be structured in many different ways. For quite some time, there was a lack of consensus on how to organize and share this type of data. The major problem of this unstructured approach is that it would lead to misunderstandings and time wasted on re-structuring data or re-writing scripts (contradicting efforts of making neuroscience more reproducible). [BIDS](http://bids.neuroimaging.io/) describes a format to organize neuroimaging and behavioural data (_i.e.,_ a folder structure, naming structure, etc.), solving the problems described above. 
+
+Given the benefits of using this structure for sharing data and information with other labs and researchers, it is mandatory for members of the Predictive Brain Lab to use this format. 
 
 #### What tool can we use to do this?
-To conver the raw data (DICOM) automatically to the BIDS format, you can use the [Bidscoin tool](https://github.com/Donders-Institute/bidscoin). Their website contains information on how to exactly do this. 
+To conver the raw data (DICOM) automatically to the BIDS format, you can use the [Bidscoin tool](https://github.com/Donders-Institute/bidscoin). Their website contains information on how exactly you can do this. 
 
 # fMRI Analysis
 Once you have converted the raw data files to NIFTI using BIDScoin, you can proceed with the data processing steps.
 
 ## Preprocessing with fmriprep
-The standard tool at the DCCN to pre-process fMRI data is [fMRIprep](https://fmriprep.org/en/stable/). 
+The first step in fMRI analysis is preprocessing the data. The standard tool at the DCCN to pre-process fMRI data is [fMRIprep](https://fmriprep.org/en/stable/). 
 
 #### Why do we use this tool?
-fMRIprep is a data preprocessing pipeline that offers a user-friendly, state-of-the-art interface. It is robust to variations in scan protocols, requires minimal user input, and provides clear, comprehensive error and output reporting.
+fMRIprep is a data preprocessing **pipeline** that offers a user-friendly, state-of-the-art interface. It is robust to variations in scan protocols, requires minimal user input, and provides clear, comprehensive error and output reporting.
 It reduces researcher degrees of freedom and aligns with the reproducibility goals followed by the lab. 
 
 #### What preprocessing steps does it perform?
-It is mostly concerned with performing the basic preprocessing steps when looking at fMRI data:
+It is mostly concerned with performing the _basic preprocessing_ steps when looking at fMRI data:
 
 * Coregistration
 * Normalization
@@ -35,10 +37,9 @@ However, the specific steps performed will depend on the type of MRI data you ar
 
 The output obtained from preprocessing your data in this way should be easily submittable to many different group level analysis, such as task-based or resting-state fMRI, graph theory measures, and surface or volume-based statistics. 
 
-#### How does fMRIprep works?
+#### How does fMRIprep work?
 It combines tools from well-known software packages for analyzing this type of data (_e.g.,_ FSL, ANTs, FreeSurfer, and AFNI), selecting the best software implementation for the different stages of the preprocessing. 
 
-The new standard tool at the DCCN. fMRIprep runs all the preprocessing and outputs various visualisations to help you check your registration etc.
-fMRIprep is a full-fledged preprocessing pipeline. On the mentat compute nodes (mentat001-005 do not work), you can use the fmriprep_sub command to submit your jobs to the cluster (see FAM 25-04-2019).
-
 The advantage of using this tool is that developers are constantly optimizing the pipeline. Modifying the preprocessing steps for it to match with the software that currently performs these steps as best as possible. Additionally, it automatizes and parallelizes processing steps, which provides a significant speed-up from manual processing or shell-scripted pipelines.
+
+
