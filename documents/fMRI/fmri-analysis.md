@@ -52,3 +52,7 @@ Similarly, if you are interested in performing univariate analysis at the group 
 If both of these resources feel a bit too specific for you, the following page contains general information on performing analysis on task-based fMRI data (which tends to be what most lab members are concerned with): [Task Based fMRI](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/task_fmri/index).
 
 Lastly, if these resources feel too advanced or if you would like to refresh your memory on these different analysis, check the [fMRI Resources page]({% link documents/fMRI/fmri-resources.md %}) for different learning materials. 
+
+{: .note}
+> We like FSL in particular, as it’s a mature and well-maintained package, free and open-source, and provides both a graphical interface and a command line interface for most of its tools.
+
