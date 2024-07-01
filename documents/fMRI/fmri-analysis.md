@@ -43,4 +43,12 @@ It combines tools from well-known software packages for analyzing this type of d
 The advantage of using this tool is that developers are constantly optimizing the pipeline. Modifying the preprocessing steps for it to match with the software that currently performs these steps as best as possible. Additionally, it automatizes and parallelizes processing steps, which provides a significant speed-up from manual processing or shell-scripted pipelines.
 
 ## Standard Analysis
-### Univariate Analysis 
+### Univariate Analysis (First- and Higher-Level Analysis)
+
+If you are already familiar with performing univariate analysis at the single/first level, the following resource provides you with a great overview of all the relevant terms and matrices you will be employing if you decide to make use of FSL: [First-Level Analysis](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/task_fmri/feat/user_guide?id=first-level-analysis)
+
+Similarly, if you are interested in performing univariate analysis at the group level, this resource contains the most importa information when using FSL: [Higher-level Analysis](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/task_fmri/feat/user_guide?id=higher-level-analysis)
+
+If both of these resources feel a bit too specific for you, the following page contains general information on performing analysis on task-based fMRI data (which tends to be what most lab members are concerned with): [Task Based fMRI](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/task_fmri/index).
+
+Lastly, if these resources feel too advanced or if you would like to refresh your memory on these different analysis, check the [fMRI Resources page]({ % link documents/fMRI/fmri-resources.md %}) for different learning materials. 
