@@ -45,7 +45,7 @@ The advantage of using this tool is that developers are constantly optimizing th
 ## Analysis
 ### Univariate Analysis (First- and Higher-Level Analysis)
 
-If you are already familiar with performing univariate analysis at the single/first level, the following resource provides you with a great overview of all the relevant terms and matrices you will be employing if you decide to make use of FSL: [First-Level Analysis](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/task_fmri/feat/user_guide?id=first-level-analysis)
+If you are already familiar with performing univariate analysis at the single/first level, the following resource provides you with a great overview of all the relevant terms you will be employing if you decide to make use of FSL: [First-Level Analysis](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/task_fmri/feat/user_guide?id=first-level-analysis)
 
 Similarly, if you are interested in performing univariate analysis at the group level, this resource contains the most importa information when using FSL: [Higher-level Analysis](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/task_fmri/feat/user_guide?id=higher-level-analysis)
 
