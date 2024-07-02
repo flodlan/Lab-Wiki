@@ -67,3 +67,4 @@ Fortunately, resources are available to improve your coding practices, enhancing
 
 * [Lightweight guidelines for code and data sharing by Sam Gersham](https://gershmanlab.com/docs/Sharing.pdf) - A series of concise guidelines that should already help you organize your code and data more efficiently. 
 
+* [PEP 8 — the Style Guide for Python Code](https://pep8.org/) - Code is read much more often than it is written. The guidelines provided here are intended to improve the readability of code and make it consistent across the wide spectrum of Python code. 
