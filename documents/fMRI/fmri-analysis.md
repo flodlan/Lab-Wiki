@@ -93,3 +93,4 @@ This page contains information on how to perform different visualizations by mak
 A recent and quite popular way of visualizing fMRI activity is through the use of flattened cortical visualizations. Jack Gallant's lab, has provided a software package that does exactly this: [PyCortex](https://gallantlab.org/pycortex/). Their website contains extensive documentations and explanations on how to use it. 
 However, it has been noted that it is not always very easy to utilize. This [notebook from Tomas Knappen's lab](https://github.com/tknapen/tknapen.github.io/wiki/Pycortex-flattening) should aid in its usage.
 
+An alternative for visualizations if you have functional MRI, magnetoencephalography, or anatomical measurements from cortex is [PySurfer](https://pysurfer.github.io/intro.html). It works great and has been integrated with other NIPY ecosystem (same creators of NiLearn)!
