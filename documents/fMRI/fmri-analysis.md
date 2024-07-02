@@ -56,3 +56,25 @@ Lastly, if these resources feel too advanced or if you would like to refresh you
 {: .note}
 > We like FSL in particular, as it’s a mature and well-maintained package, free and open-source, and provides both a graphical interface and a command line interface for most of its tools.
 
+_Of course, there are other libraries you can use to perform univariate analysis. Here, we are only highlighting the resources currently used by lab members and that have proven to be easier to use._
+
+## Multivariate Analysis
+This section will cover some more advanced analysis that can be performed using fMRI data. For a lot of these methodologies, Python is the preferred programming language. Hence, this section will mostly be **Python Based**. If you are not comfortable with using Python, you can 
+1. Search for a different package that performs the same analysis
+2. Check out the [Programming Language Section]({% link documents/technical-help/software/programming_languages.md %}) and get up to speed with Python!
+
+Before getting started with specific analysis, we recommend reading this paper:
+* [Machine learning for neuroimaging with scikit-learn](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2014.00014/full)
+
+It walks you through the core concepts that you will need to know when performing multivariate/more complicated analysis to your brain data. 
+
+Additionally, this notebook will be mainly referencing the [NiLearn Python Package](https://nilearn.github.io/stable/index.html). This was developed for appying statistical learning techniques (from GLMs to multivariate “decoding” and connectivity techniques) to neuroimaging data. The great thing about it is that it contains instructive documentation (allowing you to fetch publicly available data and performing analysis on this), as well as working with an open community. 
+
+As a first step, it is a great idea to:
+1. Read through their [user manual](https://nilearn.github.io/stable/user_guide.html) and get a good understanding of the types of analyses you can do using NiLearn
+2. Look at the different [examples of analyses](https://nilearn.github.io/stable/auto_examples/index.html) you can perform using this package
+
+Now, we will provide links for the important types of analyses you might be interested in performing:
+
+* [Decoding and MVPA: Predicting from Brain Images](https://nilearn.github.io/stable/decoding/index.html)
+* [Functional Connectivity and Resting State Analysis](https://nilearn.github.io/stable/connectivity/index.html)
