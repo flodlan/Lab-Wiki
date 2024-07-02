@@ -76,5 +76,5 @@ As a first step, it is a great idea to:
 
 Now, we will provide links for the important types of analyses you might be interested in performing:
 
-* [Decoding and MVPA: Predicting from Brain Images](https://nilearn.github.io/stable/decoding/index.html)
-* [Functional Connectivity and Resting State Analysis](https://nilearn.github.io/stable/connectivity/index.html)
+* [Decoding and MVPA: Predicting from Brain Images](https://nilearn.github.io/stable/decoding/index.html) - This page contains thorough explanations of the different analysis you can perform as well as code examples and important notions to consider.
+* [Functional Connectivity and Resting State Analysis](https://nilearn.github.io/stable/connectivity/index.html) - Similarly as the previous one, this page also includes information on quite advanced statistical analysis that you can perform when analyzing brain images. 
