@@ -42,7 +42,7 @@ It combines tools from well-known software packages for analyzing this type of d
 
 The advantage of using this tool is that developers are constantly optimizing the pipeline. Modifying the preprocessing steps for it to match with the software that currently performs these steps as best as possible. Additionally, it automatizes and parallelizes processing steps, which provides a significant speed-up from manual processing or shell-scripted pipelines.
 
-## Standard Analysis
+## Analysis
 ### Univariate Analysis (First- and Higher-Level Analysis)
 
 If you are already familiar with performing univariate analysis at the single/first level, the following resource provides you with a great overview of all the relevant terms and matrices you will be employing if you decide to make use of FSL: [First-Level Analysis](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/task_fmri/feat/user_guide?id=first-level-analysis)
@@ -58,7 +58,7 @@ Lastly, if these resources feel too advanced or if you would like to refresh you
 
 _Of course, there are other libraries you can use to perform univariate analysis. Here, we are only highlighting the resources currently used by lab members and that have proven to be easier to use._
 
-## Multivariate Analysis
+### Multivariate Analysis
 This section will cover some more advanced analysis that can be performed using fMRI data. For a lot of these methodologies, Python is the preferred programming language. Hence, this section will mostly be **Python Based**. If you are not comfortable with using Python, you can 
 1. Search for a different package that performs the same analysis
 2. Check out the [Programming Language Section]({% link documents/technical-help/software/programming_languages.md %}) and get up to speed with Python!
@@ -77,4 +77,13 @@ As a first step, it is a great idea to:
 Now, we will provide links for the important types of analyses you might be interested in performing:
 
 * [Decoding and MVPA: Predicting from Brain Images](https://nilearn.github.io/stable/decoding/index.html) - This page contains thorough explanations of the different analysis you can perform as well as code examples and important notions to consider.
-* [Functional Connectivity and Resting State Analysis](https://nilearn.github.io/stable/connectivity/index.html) - Similarly as the previous one, this page also includes information on quite advanced statistical analysis that you can perform when analyzing brain images. 
+* [Functional Connectivity and Resting State Analysis](https://nilearn.github.io/stable/connectivity/index.html) - Similarly as the previous one, this page also includes information on quite advanced statistical analysis that you can perform when analyzing brain images.
+
+
+## Brain Visualization
+
+An important part of performing your analysis is to be able to display the information you obtained. This is not a trivial task and some forms of visualization are more intuitive and informative than others (depending on the goal of your study)
+
+This page contains information on how to perform different visualizations by making use of the NiLearn package: [Visualizing Neuroimaging Data using NiLearn](https://nilearn.github.io/stable/plotting/index.html)
+
+
