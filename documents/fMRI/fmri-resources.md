@@ -48,6 +48,8 @@ In case you have any questions, they also have their own [WIKI](https://fsl.fmri
 
 - This is a course to give users and **introduction to using FreeSurfer**, as well as get you acquainted with the concepts needed to perform its various modes of analysis and processing of MRI data. You can find the link [here](https://surfer.nmr.mgh.harvard.edu/fswiki/Tutorials)
 
+- [NiLearn](https://nilearn.github.io/stable/user_guide.html#user-guide) While this is not specifically a course, NiLearn provides very clear documentation on the different types of analysis you can perform on fMRI as well as information on the different assumptions made when working with this type of data. We recommend to use this resource when you already have prior experience with fMRI data or when you are feeling ready to dive directly on some more advance code
+
 ## Specific Resources
 
 - **[Design Efficiency in fMRI](https://imaging.mrc-cbu.cam.ac.uk/imaging/DesignEfficiency)** - This page addresses the question of how to design fMRI experiments that are sensitive to a specific hypothesis. 
