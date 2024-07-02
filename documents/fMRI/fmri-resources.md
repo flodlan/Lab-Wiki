@@ -50,6 +50,11 @@ In case you have any questions, they also have their own [WIKI](https://fsl.fmri
 
 - [NiLearn](https://nilearn.github.io/stable/user_guide.html#user-guide) While this is not specifically a course, NiLearn provides very clear documentation on the different types of analysis you can perform on fMRI as well as information on the different assumptions made when working with this type of data. We recommend to use this resource when you already have prior experience with fMRI data or when you are feeling ready to dive directly on some more advance code
 
+### Lists
+- [Jonathan Peelle MRI resources especially helpful for beginners](http://jonathanpeelle.net/mri-resources-for-beginners/) - A common way of starting to do neuroimaging analysis is through a mixture of self-directed study, research, and asking other experts around you for help. A great place to start is by looking at the great material available online (_such as the resources highlighted in this wiki_), as it can give you a great overview of what can be done. This list here, provides some other resources that [Jonathan Peelle] from Northeastern University put together to do this type of analysis.
+  - Linked to these resources is also this very helpful reading list for understanding the analysis options you have when using this type of data: [MRI Reading List Johnathan Peelle](http://jonathanpeelle.net/mri-reading-list/)
+
+
 ## Specific Resources
 
 - **[Design Efficiency in fMRI](https://imaging.mrc-cbu.cam.ac.uk/imaging/DesignEfficiency)** - This page addresses the question of how to design fMRI experiments that are sensitive to a specific hypothesis. 
