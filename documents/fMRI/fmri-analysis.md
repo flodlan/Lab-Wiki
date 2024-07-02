@@ -80,7 +80,7 @@ Now, we will provide links for the important types of analyses you might be inte
   * [PyMVPA](http://www.pymvpa.org/) - another open source free alternative to perform MVPA analysis (not restricted to the neuroimaging domain using a Python base) 
 * [Functional Connectivity and Resting State Analysis](https://nilearn.github.io/stable/connectivity/index.html) - Similarly as the previous one, this page also includes information on quite advanced statistical analysis that you can perform when analyzing brain images.
 * [Representational Similarity Analysis](https://rsatoolbox.readthedocs.io/en/latest/index.html) - This is not part of NiLearn, but rather a toolbox (and tutorials) on how to perform RSA. This is a very useful technique especially when wanting to compare data of different modalities (_e.g.,_ behavioral, neuroimaging, AI). The developers of this method created their own website containing useful documentation for it.
- * The authors also have a MATLAB version of the toolbox. However, they recommend using the Python one as it includes the latest developments in the field
+  * The authors also have a MATLAB version of the toolbox. However, they recommend using the Python one as it includes the latest developments in the field
 
 ## Brain Visualization
 
