@@ -88,4 +88,6 @@ An important part of performing your analysis is to be able to display the infor
 
 This page contains information on how to perform different visualizations by making use of the NiLearn package: [Visualizing Neuroimaging Data using NiLearn](https://nilearn.github.io/stable/plotting/index.html)
 
+A recent and quite popular way of visualizing fMRI activity is through the use of flattened cortical visualizations. Jack Gallant's lab, has provided a software package that does exactly this: [PyCortex](https://gallantlab.org/pycortex/). Their website contains extensive documentations and explanations on how to use it. 
+However, it has been noted that it is not always very easy to utilize. This [notebook from Tomas Knappen's lab](https://github.com/tknapen/tknapen.github.io/wiki/Pycortex-flattening) should aid in its usage.
 
