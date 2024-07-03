@@ -23,5 +23,9 @@ nav_order: 1
 * Print the necessary [Informed Consent Forms](https://intranet.donders.ru.nl/index.php?id=6769) & [Subject Information Packages](https://intranet.donders.ru.nl/index.php?id=6770) (Check that you are **always** using the last version of these forms)
 * Familiarize yourself with the [data management procedure](https://intranet.donders.ru.nl/index.php?id=datastorage-archiving-sharing)
 
-**When starting testing**
+**When Starting to Test**
 * Take a look at the [concept checklist](https://docs.google.com/document/d/1ZSTiefJdUuVGoO00uoj6vZxGBkfi-IeamdLvl56VwdY/edit?usp=sharing) and alter according to your own interests. It is always a good idea to make sure everything is as standarized as possible.
+
+The following flow chart should provide a concise summary of the different steps you need to take when setting up an experiment at the DCCN.
+
+![flowchart-new-project](./flowchart-new-proj.png)
