@@ -1,4 +1,4 @@
-![image](https://github.com/PauloOrtizF/PBL-Wiki/assets/122372980/a6da1972-4a6f-4550-a07e-bd51e789dca5)---
+---
 layout: default
 title: Summer Schools
 parent: Technical Help
