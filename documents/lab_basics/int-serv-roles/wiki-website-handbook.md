@@ -32,4 +32,25 @@ It is recommended to set specific date(s) during the time you are responsible fo
 
 * Schedule a **general lab meeting to discuss how often people use this resoruce and how can we increase its usage**
 
+### Website
+
+Similar to the wiki, you will need access to the lab's account to be able to edit the website. You will find everything you need to know about the website on the Drive of the account. 
+
+Your role as a website manager consists of the following tasks:
+- Make sure you update the profiles of the lab members if there are any new members/members leaving/requests for change (these will be received in the form of email)
+- Make sure you are keeping up to date uploading photos from social activities/outings
+- Make sure you are adding information about important events happening at the lab in the Social & News tab
+- Make sure that all the links on the website are currenlty working
+- If there are changes to the members of the lab, it is a good idea to take a new group picture during the Lab Retreat.
+- You should keep an alert of any new publications happening at the lab (you can add an alert with Floris' name on google scholar)
+- You should add a button to the home screen advertising a position if one becomes available
+
+For the management of the website, you can discuss with Floris is there are any specific tasks he would like you to get done or NOT to do. 
+
+### Handbook 
+
+The handbook is a collective effort from the members of the Predictive Brain Lab to put in paper all the values, norms and expectations from everyone that joins the lab. 
+
+A part of your responsibility with your service role is to see that all the information present in the handbook is up to date with the norms that have been established in the lab. 
+
  
