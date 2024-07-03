@@ -32,6 +32,9 @@ This page provides a collection of resources we think are very useful for learni
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - is a free online intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view.
   * [BAYESIAN MODELING, DATA SCIENCE, & PYTHON](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
+### Mixed Effects Models
+This is a statistical analysis that focuses on more complex data structures. The main advantage of these models is that they can represent hierarchical dependencies in the data (e.g. datapoints from the same participant, but also participants from different groups, etc.). We have a page dedicated to this type of model in case you want to use it for your data. See [here]({% link documents/technical-help/maths-and-stats/mixed-models.md %})
+
 ### Good Old Machine Learning
 
 * [An Introduction to Statistical Learning](https://www.statlearning.com/) - This book provides an accessible overview of the field of statistical learning, an essential toolset for making sense of the vast and complex data sets. Topics include linear regression, classification, resampling methods, shrinkage approaches, tree-based methods, support vector machines, clustering, and more. **Highly recommended**. They also have a version for applications in R and a version for Python.
