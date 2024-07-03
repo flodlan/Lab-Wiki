@@ -13,8 +13,9 @@ The main advantage of these models is that they can represent hierarchical depen
 For someone just starting to work with these models I would first suggest one of the online introductions or the Andy Field book chapter. This first resource will likely guide you to useful follow-up materials, but I also included some additional resources below.
 
 ## Books 
-1.**Linear Mixed Models in Linguistics and Psychology: A Comprehensive Introduction by Shravan Vasishth, Daniel Schad, Audrey Bürki & Reinhold Kliegl**.  This is a pretty comprehensive book about mixed effects models that’s aimed at cognitive scientists working with behavioral data. This is a very reliable source, but I think it’s a bit much for an introduction. It can be downloaded from [here](https://vasishth.github.io/Freq_CogSci/index.html)
-2.**Discovering statistics using R by Andy Field** also has a chapter on mixed effects models. This is a great introductory chapter but unfortunately not available online.
+1. **Linear Mixed Models in Linguistics and Psychology: A Comprehensive Introduction by Shravan Vasishth, Daniel Schad, Audrey Bürki & Reinhold Kliegl**.  This is a pretty comprehensive book about mixed effects models that’s aimed at cognitive scientists working with behavioral data. This is a very reliable source, but I think it’s a bit much for an introduction. It can be downloaded from [here](https://vasishth.github.io/Freq_CogSci/index.html)
+
+2. **Discovering statistics using R by Andy Field** also has a chapter on mixed effects models. This is a great introductory chapter but unfortunately not available online.
 
 ## Online Introductions
 (they all discuss similar points, you can choose based on your learning style)
