@@ -30,8 +30,7 @@ This page provides a collection of resources we think are very useful for learni
 
 #### _EXTRA_
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - is a free online intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view.
- * [BAYESIAN MODELING, DATA SCIENCE, & PYTHON](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
-
+  * [BAYESIAN MODELING, DATA SCIENCE, & PYTHON](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 ### Good Old Machine Learning
 
