@@ -2,9 +2,10 @@
 layout: default
 title: Summer Schools
 parent: Technical Help
-has_children: false
+has_children: true
 nav_order: 4
 ---
+
 
 # Summer Schools
 
