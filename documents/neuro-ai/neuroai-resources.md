@@ -77,4 +77,10 @@ The topics covered are the following:
 - Reinforcement learning in the brain, from classical conditioning to deep RL
 - Cognitive maps: from hippocampal formation to prefrontal cortex
 
+#### HOW TO BUILD A BRAIN FROM SCRATCH? (CHRISTOPHER SUMMERFIELD)
 
+Already a bit outdated given the fast pace of the field, this series of lectures by prof. Christopher Summerfield provie an amazing starting point to the field of NeuroAI. 
+The lecture series covers a great breadth of topics and provides clear explanations to the different links made between AI and Neuroscience. 
+Chris is a great speaker making this lecture series an easy-to-follow one. However, compared to the other resources above, this focuses solely on the theoretical part of the work.
+
+See [here](https://humaninformationprocessing.com/teaching/)
