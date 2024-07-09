@@ -84,3 +84,19 @@ The lecture series covers a great breadth of topics and provides clear explanati
 Chris is a great speaker making this lecture series an easy-to-follow one. However, compared to the other resources above, this focuses solely on the theoretical part of the work.
 
 See [here](https://humaninformationprocessing.com/teaching/)
+
+#### DEEP LEARNING (VRIJE UNIVERSITEIT VAN AMSTERDAM)
+
+The people organizing the course of Deep Learning at the VU of Amsterdam have also decided to make both their courses and materials available for the general public. If you are interested in understading the technical details and different techniques from the pure AI side, this course is perfect for you. While a good understading of the mathematics involved in AI provides a clear advantage for working with these different models, this is not always a necessary skill to have to apply them and understand them.
+
+The course can be found [here](https://dlvu.github.io)
+
+#### STANDFORD COURSES
+Member from the lab have recommended the following courses from Standford University to learn more about specific topics within AI that are relevant for the research being performed at the Predictive Brain Lab. Here we will highlight three courses, but feel free to explore which other ones they have:
+1. [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)
+2. [CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/)
+3. [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
+
+
+## Tutorials
+
