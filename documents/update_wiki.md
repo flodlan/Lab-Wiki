@@ -13,7 +13,7 @@ If you have any resources/tools/knowledge you think others might find useful. Pl
 
 ### Contributing to This Wiki
 
-If you have never used GitHub before, please go to the [Technical Help](./documents/technical_help) page of the wiki and check our resources on how to use GitHub. **You do not need to be an expert on GitHub to be able to edit this website**. It should take max. _30 minutes_ of your time to understand how to use the basic functions (_e.g.,_ creating an account, forking a repository, pull request, etc) and be able to edit this page. 
+If you have never used GitHub before, please go to the [Technical Help]({% link documents/technical-help/reproducible_code.md %}) page of the wiki and check our resources on how to use GitHub. **You do not need to be an expert on GitHub to be able to edit this website**. It should take max. _30 minutes_ of your time to understand how to use the basic functions (_e.g.,_ creating an account, forking a repository, pull request, etc) and be able to edit this page. 
 
 #### Step-by-Step 
 
