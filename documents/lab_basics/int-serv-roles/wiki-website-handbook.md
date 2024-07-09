@@ -74,9 +74,9 @@ To be able to access the mattermost, you need to login from the [server](https:/
 
 If the person trying to join does not yet have one, ask admin to provide one for them. 
 If the person trying to join is external, you will have to follow these steps: 
-1. Check this website where it tells you what to do (in case the information below is outdated): https://tsgdoc.socsci.ru.nl/index.php/Mattermost_Social_Sciences
-2. Email gitlab@socsci.ru.nl from your own Donders email requesting an account for the person that wants to join the lab
-    1. You will have to provide the Name, Username and Email Address of the person that will be joining (they usually prefer if the email address you provide is linked to some other university institution)
+1. Check this [website](https://tsgdoc.socsci.ru.nl/index.php/Mattermost_Social_Sciences) where it tells you what to do (in case the information below is outdated) 
+2. Email `gitlab@socsci.ru.nl` from your own Donders email requesting an account for the person that wants to join the lab
+    1. You will have to provide the Name, Username and Email Address of the person that will be joining (they usually prefer if the email address you provide is linked to some other university institution where the person is currently affiliated)
 3. They administration will contact the new user directly with instructions on how to join    
 
 ### Extra (Security and Google Group)
@@ -92,4 +92,6 @@ If someone comes to you with access trouble, always check whether this is not be
 #### What does this work entail for you?
 
 When you decide to create/edit a document that needs to be private and shared with all lab members, add the Predictive Brain Lab Google Group account to the users allow to edit/comment/see the document. This should give everyone in that mailing list access to the document. 
+
+The Predictive Brain Lab account should give you admin access to the Google Groups to do any edits you may need.
  
