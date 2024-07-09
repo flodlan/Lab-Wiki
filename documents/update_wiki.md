@@ -26,10 +26,14 @@ If you have never used GitHub before, please go to the [Technical Help]({% link 
 --- 
 layout: default
 title: where to get tasty lunch around the DCCN?
-rank: 1 
+nav_order: 1
+parent: ???
+grand_parent: ???
 ---
 ```
-_Note:_ only add the rank section if you want the page to be displayed as one of the options on the wiki's index.
+
+{: .note}
+> Only add the nav_order section if you want the page to be displayed as one of the options on the wiki's index. Add a parent if you want it to be part of an already existing tab, add the grandparent if you want it to be part of a tab inside a tab
 
 
 6. Add the information you want and then click on the _commit changes_ green button on the top right (this saves the changes you did on your local fork of the repository)
@@ -37,6 +41,10 @@ _Note:_ only add the rank section if you want the page to be displayed as one of
 
 
 **That is it! You've done it! You see how easy it was?**
+
+Of course, maybe things appear a bit more complicated than that. If that is the case, please contact the person in charge of the wiki during that term and they should be able to help you. 
+
+The lab is hosted by the Just the Docs template. This is just a template for creating websites that includes already some functionality. They have a very useful page where they explain how to do different edits and their outcomes. You can read more about it [here](https://just-the-docs.com/). This might be a **super useful resource**
 
 
 #### How do I know if my information is worth incorporating to the wiki?
