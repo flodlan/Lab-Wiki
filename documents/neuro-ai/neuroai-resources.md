@@ -39,7 +39,7 @@ Within Python, there are three packages that you will need to know relatively we
 All of these packages include the functions that you will be using when working on this type of work. Additionally, being proficient on them will allow you to more easily understand the code of other researchers. 
 PyTorch and Tensor Flow are quite similar and in principle you should not have to learn both. We recommend reading about them online and deciding which one suits your needs. In general, PyTorch is the preferred option (at the current moment, this might change)
 
-### Courses 
+## Courses 
 
 #### NEUROMATCH
 Neuromatch is a collective effort by many researchers around the world to create an online summer school that provides people from all over the world with the possibility of learning about Neuroscience and AI. Even more amazing, the organizers provide all their materials for free (lectures and tutorials) for everyone to use. These are an invaluable source to learn about NeuroAI in a thorough fashion. 
