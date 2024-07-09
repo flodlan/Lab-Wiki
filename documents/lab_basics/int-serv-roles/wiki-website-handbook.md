@@ -66,8 +66,8 @@ If you are unsure about norms/rules, discuss them with Floris. Otherwise, schedu
 
 The official communication channel for the lab is MatterMost. In general, there should be enough information in the handbook for everyone to be able to set their MatterMost account and get started. However, there might be cases in which things are not so straightforwards:
 
-1) When someone is struggling to open their account
-2) When someone external to the Donders wants to be part of the MatterMost
+1. When someone is struggling to open their account
+2. When someone external to the Donders wants to be part of the MatterMost
 
 #### What do you do then?
 To be able to access the mattermost, you need to loggin from the [server](https://mattermost.socsci.ru.nl/) of the faculty of social sciences. If you try to do it from somewhere else it will just not work. However, to be able to succesfully login, you will need to have a `@donders.ru.nl` account or one affiliated wiht the RU. 
