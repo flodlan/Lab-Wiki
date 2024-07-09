@@ -53,6 +53,8 @@ The handbook is a collective effort from the members of the Predictive Brain Lab
 
 A part of your responsibility with your service role is to see that all the information present in the handbook is up to date with the norms that have been established in the lab. These tend to be dynamic which means that the information that has been written there can get outdated very quickly. Additionally, it is not just the norms but also the links or specific resoruces that might stop working at any point for various reasons. Your work is to make sure the document stays up to date and everything associated with it keeps working. 
 
+If you are unsure about norms/rules, discuss them with Floris. Otherwise, schedule a brief discussion during the general lab meeting.
+
 #### How do you do this?
 
 - Most important: **check that the link for the handbook is working and that the documents (doc, pdf) are available and working on Drive**
