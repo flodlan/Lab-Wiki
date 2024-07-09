@@ -58,7 +58,8 @@ These materials, due to their interactive nature, will get you up to speed in yo
 
 Recently, a summer school took place at the Univeristy of Amsterdam. Some of our lab members were able to attend such school in which they had to work through four-hour long interactive JupyterNotebooks in the afternoons. These cover a broad range of topics within the field of NeuroAI. 
 
-This link contains a folder with the different notebooks: 
+This [link](https://drive.google.com/drive/folders/1l5hHjxTCVIORzgUiHHfxSlcUGUeIX22H?usp=drive_link) contains a folder with the different notebooks. 
+If you are new to JupyterNotebook you can open the different files using Google Colab (they were intended to be used there)
 
 {: .note}
 > These are learning materials, which means that some of them will not contain the answers for the different exercises. Hence, we recommend doing these courses if you are already comfortable with programming
