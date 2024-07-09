@@ -70,7 +70,7 @@ The official communication channel for the lab is MatterMost. In general, there 
 2. When someone external to the Donders wants to be part of the MatterMost
 
 #### What do you do then?
-To be able to access the mattermost, you need to loggin from the [server](https://mattermost.socsci.ru.nl/) of the faculty of social sciences. If you try to do it from somewhere else it will just not work. However, to be able to succesfully login, you will need to have a `@donders.ru.nl` account or one affiliated wiht the RU. 
+To be able to access the mattermost, you need to login from the [server](https://mattermost.socsci.ru.nl/) of the faculty of social sciences. If you try to do it from somewhere else it will just not work. However, to be able to succesfully login, you will need to have a `@donders.ru.nl` account or one affiliated wiht the RU. 
 
 If the person trying to join does not yet have one, ask admin to provide one for them. 
 If the person trying to join is external, you will have to follow these steps: 
