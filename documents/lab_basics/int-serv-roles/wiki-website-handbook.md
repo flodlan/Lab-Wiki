@@ -6,7 +6,7 @@ grand_parent: Lab Basics
 nav_order: 5
 ---
 
-# Wiki, Website and Handbook
+# Wiki, Website and Handbook (and Extras)
 
 One of the internal services roles as a member of the Predictive Brain Lab is the one to maintain the website, the lab's handbook and the wiki (what you are reading now)
 
@@ -55,8 +55,39 @@ A part of your responsibility with your service role is to see that all the info
 
 #### How do you do this?
 
-- make a check every once in a while
-- check the documents shared in the lab
-- make edits on it and remember to udpate the name
-- share with group 
+- Most important: **check that the link for the handbook is working and that the documents (doc, pdf) are available and working on Drive**
+- Schedule on your agenda once every three/four months a check the functionality of all the different links.
+    - On the same check, you should go through all the information and see whether anything has changed over the last months
+    - If you make any edits, remember to share these with the group and update the review date on the document
+ 
+### MatterMost
+
+The official communication channel for the lab is MatterMost. In general, there should be enough information in the handbook for everyone to be able to set their MatterMost account and get started. However, there might be cases in which things are not so straightforwards:
+
+1) When someone is struggling to open their account
+2) When someone external to the Donders wants to be part of the MatterMost
+
+#### What do you do then?
+To be able to access the mattermost, you need to loggin from the [server](https://mattermost.socsci.ru.nl/) of the faculty of social sciences. If you try to do it from somewhere else it will just not work. However, to be able to succesfully login, you will need to have a `@donders.ru.nl` account or one affiliated wiht the RU. 
+
+If the person trying to join does not yet have one, ask admin to provide one for them. 
+If the person trying to join is external, you will have to follow these steps: 
+1. Check this website where it tells you what to do (in case the information below is outdated): https://tsgdoc.socsci.ru.nl/index.php/Mattermost_Social_Sciences
+2. Email gitlab@socsci.ru.nl from your own Donders email requesting an account for the person that wants to join the lab
+    1. You will have to provide the Name, Username and Email Address of the person that will be joining (they usually prefer if the email address you provide is linked to some other university institution)
+3. They administration will contact the new user directly with instructions on how to join    
+
+### Extra (Security and Google Group)
+
+Some of our resources, such as the handbook, are intended to be used by the lab members. However, as we are commited to OpenScience, they are also shared with the scientific community as a whole. _Why?_ Because we believe other can also benefit from our work. 
+The issue is that within the handbook, we have links towards documents that contain private information that we might not want everyone to access. Hence, we have made all these documents private so only lab members can access them.
+
+#### How does this work?
+When lab members join the Predictive Brain Lab, they will be automatically added to the Google Groups of the lab. Floris might do this or he might ask you to do it. Whenever someone joins, you should let them know that the email they decide to use will be the email that they need to use when trying to access any lab document. This means, they need to be logged in to that account on their Google Drive to be able to access any document. 
+
+If someone comes to you with access trouble, always check whether this is not because they are not logged in.
+
+#### What does this work entail for you?
+
+When you decide to create/edit a document that needs to be private and shared with all lab members, add the Predictive Brain Lab Google Group account to the users allow to edit/comment/see the document. This should give everyone in that mailing list access to the document. 
  
