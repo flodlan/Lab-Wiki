@@ -9,7 +9,7 @@ nav_order: 1
 This page will try to highlight resources that can be very helpful if you are trying to get up to speed in the field of NeuroAI. Some of them might be more focused on the AI side of things while others will be directly tailored towards the combination of both.
 
 Before going through any work on NeuroAI, we recommend trying to understand why this field exists and the goals associated with it. These two papers provide a great summary of the aims of this type of work:
-- [Cognitive computational neuroscience](https://www.nature.com/articles/s41593-018-0210-5)
+- [Cognitive Computational Neuroscience](https://www.nature.com/articles/s41593-018-0210-5)
 - [The Neuroconnectionist Research Programme](https://www.nature.com/articles/s41583-023-00705-w)
 
 #### Before Starting
