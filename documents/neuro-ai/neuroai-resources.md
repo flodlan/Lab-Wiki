@@ -100,3 +100,11 @@ Member from the lab have recommended the following courses from Standford Univer
 
 ## Tutorials
 
+#### VOXELWISE MODELING TUTORIAL - JACK GALLANT'S LAB
+
+The lab of Jack Gallant has provided a lot of open source code and datasets which are rich resources that could come useful at some point. They are also the developers of PyCortex (a way of visualizing brains) and have provided interactive viewers of such tools. We recommend giving their website a look for some inspiration. See [here](https://gallantlab.org/)
+
+A useful series of resources they have created are two voxelwise modeling tutorials. They have a repository containing these tutorials which describe how to use the voxelwise modeling framework (performing fMRI data analysis, fitting encoding models at the voxel level).
+
+These can be found [here](https://github.com/gallantlab/voxelwise_tutorials)
+
