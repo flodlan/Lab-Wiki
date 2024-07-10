@@ -13,7 +13,8 @@ There is a variety of software being used to create experiments for neuroscience
 This [website](https://peterscarfe.com/ptbtutorials.html) contains a variety of tutorials to get familiar with coding different types of experimental paradigms. 
 
 2. [PsychoPy](https://www.psychopy.org/) - free set of Pyhton functions to create psychological and neuroscience experiments. A few members of the lab are familiar with this software and can give help if needed. 
-The PsychoPy [website](https://psychopy.org/documentation.html) contains tutorials and open source code you can look at to get inspired. 
+The PsychoPy [website](https://psychopy.org/documentation.html) contains tutorials and open source code you can look at to get inspired.
+  1. This [link](https://www.socsci.ru.nl/wilberth/psychopy/00intro.html) contains a very nice tutorial to set you up to use PsychoPy from the SocSci of the RU
 
 {: .note }
 > Before starting to code ANY experiment. Check the compatibility of the software you are planning to use with the Donders Institute computers. The neuroimaging laboratories do not support all software options
