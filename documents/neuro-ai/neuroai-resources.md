@@ -139,3 +139,7 @@ If you are looking to get some inspiration or hear about some of the most promin
 
 Check them out [here](https://braininspired.co/) or on your favorite podcast platform. 
 
+### Reading List(s)
+
+- [DNN vs. brain and behavior](https://vicco-group.github.io/DNN_vs_brain-and-behavior/) - The group of Martin Hebart has been collecting for the last couple of years papers they deemed as important in the field of NeuroAI. You can use this list as an inspiration or browse throguh papers that you might have missed!
+
