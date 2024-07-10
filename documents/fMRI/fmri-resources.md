@@ -39,7 +39,7 @@ You might be able to find this online or checking the Radboud University Library
 
 - Another **video lecture series** that has now been transformed into a Coursera Course by Martin Lindquist and Tor Wager can be found [here](https://www.youtube.com/@principlesoffmri6920). The link for the Coursera crash course is [here](https://www.coursera.org/learn/functional-mri?source=deprecated_spark_cdp)
 
-- [Rebecca Saxe's Bootcamp on fMRI (Conceptual)](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k)
+- [Rebecca Saxe's Bootcamp on fMRI (Conceptual)](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k) - This short video series focuses on getting a proper understanding of the concepts behind fMRI analysis.
 
 
 ### Courses 
