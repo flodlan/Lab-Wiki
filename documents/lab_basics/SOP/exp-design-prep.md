@@ -10,7 +10,7 @@ nav_order: 1
 **Following initial study design**
 * Presentation on the General Lab Meeting to get feedback on initial study design
 * Test scripts, equipment, tasks, and procedures with a small pilot (see [here](https://intranet.donders.ru.nl/index.php?id=5960) for rules about pilot designs at DCCN and [here](https://intranet.donders.ru.nl/index.php?id=laboratories) on how to book a lab)
-* Present your work and proposal to Donders in a [PPM](https://intranet.donders.ru.nl/index.php?id=research-ppm) (see below)
+* Present your work and proposal to Donders in a [PPM](https://intranet.donders.ru.nl/index.php?id=research-ppm) (see PPM page [here]({% link documents/lab_basics/SOP/ppm.md %}))
 * Test again using a more extensive pilot (if necessary)
 
 **After finalizing design**
