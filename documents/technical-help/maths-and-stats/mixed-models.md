@@ -10,7 +10,8 @@ nav_order: 1
 
 The main advantage of these models is that they can represent hierarchical dependencies in the data (e.g. datapoints from the same participant, but also participants from different groups, etc.). These models are typically used for behavioral data, but not exclusively (see [here](https://link.springer.com/protocol/10.1007/978-1-0716-3263-5_5) for EEG examples) and they are typically implemented in R (but see this [link](https://github.com/JuliaStats/MixedModels.jl) for Julia).
 
-For someone just starting to work with these models I would first suggest one of the online introductions or the Andy Field book chapter. This first resource will likely guide you to useful follow-up materials, but I also included some additional resources below.
+For someone just starting to work with these models I would first suggest one of the online introductions or the Andy Field book chapter. 
+Some of us are visual learners and certain concepts tend to stick better if there are ways of representing them visually. This page contains a simple and appealing explanation for Mixed Effects Models with great animations: [An Introduction to Hierarchical Modeling}(http://mfviz.com/hierarchical-models/)
 
 ## Books 
 1. **Linear Mixed Models in Linguistics and Psychology: A Comprehensive Introduction by Shravan Vasishth, Daniel Schad, Audrey Bürki & Reinhold Kliegl**.  This is a pretty comprehensive book about mixed effects models that’s aimed at cognitive scientists working with behavioral data. This is a very reliable source, but I think it’s a bit much for an introduction. It can be downloaded from [here](https://vasishth.github.io/Freq_CogSci/index.html)
