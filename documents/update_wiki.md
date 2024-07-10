@@ -67,4 +67,5 @@ If this all sounds too hard, check out this image with all the different steps (
 
 ![upd-wiki-pages](/images/upd-wiki-pages.png)
 
+:)
 
