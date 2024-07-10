@@ -37,7 +37,10 @@ First and foremost:
 
 Tutorials:
 
-- [Github's Tutorials](https://docs.github.com/en/get-started) - The obvious first option to mention is Github's own documentation website. They have very clear explanations and tutorials on how to use Github efficiently.
+- [Github's Tutorials](https://skills.github.com/) - The obvious first option to mention is Github's own documentation website. They have very clear explanations and tutorials on how to use Github efficiently.
+    - [Tutorial on how to set up your Github account](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+    - [Tutorial on how to use Markdown to write text](https://github.com/skills/communicate-using-markdown)
+    - [Tutorial on how to create your own website using Github](https://github.com/skills/github-pages)
 
 - [Data Camp](https://tinyurl.com/4dz84h6y) - DataCamp has a great interactive tutorial on what GitHub is and how to use it. It also includes a module on shell scripting, which means you would be killing two birds with one stone!
 
