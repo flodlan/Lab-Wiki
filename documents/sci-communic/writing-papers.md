@@ -13,6 +13,7 @@ Scientific writing is a skill that requires a lot of practice and reading scient
 * [Style: Lessons in Clarity and Grace, 12th edition](https://www.pearson.com/en-us/subject-catalog/p/style-lessons-in-clarity-and-grace/P200000008731/9780134080413) - Great book to directly help you improve your writing style
 * [Some Tips for Writing Science](https://www.eneuro.org/content/9/6/ENEURO.0497-22.2022) - Recent article from a neuroscientist on writing scientific articles
 * [Brad Voytek's Article Template](https://docs.google.com/document/d/1FSnPuniOpfscQxV5z012j4akxmKhzP3r70HvKBtB5FE/edit) - A good rough draft on how to structure your research article
+  * [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article%3Fid%3D10.1371/journal.pcbi.1005619)
 
 {: .note }
 > Remember to keep an eye on courses from the Radboud University Graduate School on Scientific Communication
