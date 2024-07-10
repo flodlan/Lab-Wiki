@@ -65,6 +65,6 @@ If you want to make big changes (such as adding a new page) and see how these wo
 
 If this all sounds too hard, check out this image with all the different steps (the important things you need to click are highlighted in red):
 
-![upd-wiki-pages](./images/upd-wiki-pages.png)
+![upd-wiki-pages](/images/upd-wiki-pages.png)
 
 
