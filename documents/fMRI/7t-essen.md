@@ -114,7 +114,7 @@ You can then go to the rental car agency and get your car.
 
 
 ## Analysis of 7T Data
-Data are analysed similarly to 3T data. These steps were I inherited from [Sam Lawrence](https://www.linkedin.com/in/samueljdlawrence?originalSubdomain=uk) (not in academia anymore) and he from [Peter Kok](https://profiles.ucl.ac.uk/66629-peter-kok) in order.
+Data are analysed similarly to 3T data. These steps were inherited from [Sam Lawrence](https://www.linkedin.com/in/samueljdlawrence?originalSubdomain=uk) (not in academia anymore) and he from [Peter Kok](https://profiles.ucl.ac.uk/66629-peter-kok).
 
 ### Essen Recording
 Essen has quite a few additional manual steps that are quite complex to explain without sitting in front of the scanner. You will usually get an introduction. 
