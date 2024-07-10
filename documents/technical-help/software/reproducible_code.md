@@ -37,6 +37,8 @@ First and foremost:
 
 Tutorials:
 
+- [GitHub: A Primer by Brad Voytek](https://voyteklab.com/git/git-primer/) - Nice starting point that provides a short summary of what you can achieve with Github
+
 - [Github's Tutorials](https://skills.github.com/) - The obvious first option to mention is Github's own documentation website. They have very clear explanations and tutorials on how to use Github efficiently.
     - [Tutorial on how to set up your Github account](https://docs.github.com/en/get-started/start-your-journey/hello-world)
     - [Tutorial on how to use Markdown to write text](https://github.com/skills/communicate-using-markdown)
