@@ -5,7 +5,7 @@ nav_order: 1
 ---
 ![PBL-logo](./images/PBL-logo-SVG-P.png)
 
-# Welcome to the Lab's Wiki!
+# Welcome to the Predictive Brain Lab's Wiki!
 
 We are based at the [Donders Institue for Brain, Cognition and Behaviour](https://www.ru.nl/en/donders-institute) at [Radboud University](https://www.ru.nl/en) in Nijmegen, Netherlands. This is the lab wiki, which provides information regarding the **technical skills** relevant to perform research as part of our group. 
 
