@@ -23,7 +23,7 @@ We hope you have a great time during your stay in the lab and that this resposit
 
 #### [Lab Basics]({% link documents/lab_basics/lab_basics.md %})
 
-If you are new to the lab, or have more general admin questions, this is the place to start. You can find a guide to the lab, guides for more general procedures ([science communication]({% link documents/sci-communic/sci-communic.md)) and some useful links to Donders Institute resources.
+If you are new to the lab, or have more general admin questions, this is the place to start. You can find a guide to the lab, guides for more general procedures ([science communication]({% link documents/sci-communic/sci-communic.md %})) and some useful links to Donders Institute resources.
 
 * * * 
 #### Standard Operating Procedures
