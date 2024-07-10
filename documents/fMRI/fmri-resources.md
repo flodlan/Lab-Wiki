@@ -39,10 +39,14 @@ You might be able to find this online or checking the Radboud University Library
 
 - Another **video lecture series** that has now been transformed into a Coursera Course by Martin Lindquist and Tor Wager can be found [here](https://www.youtube.com/@principlesoffmri6920). The link for the Coursera crash course is [here](https://www.coursera.org/learn/functional-mri?source=deprecated_spark_cdp)
 
+- [Rebecca Saxe's Bootcamp on fMRI (Conceptual)](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k)
+
+
 ### Courses 
 
 - **[FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki) is a comprehensive library of analysis tools for FMRI**, MRI and diffusion brain imaging data. The creators of this library often offer an **[in-person course](https://open.win.ox.ac.uk/pages/fslcourse/website/index.html)** on how to use it. However, more relevant for us, they also have the materials and lectures for this **[course online](https://open.win.ox.ac.uk/pages/fslcourse/website/online_materials.html)**. For almost all studies the following tutorials of the 2018 Course are useful: (1) Brain Extraction, Registration, Motion Correction and EPI Distortion. (3) FMRI Preprocessing and Model-Based Analysis.
 In case you have any questions, they also have their own [WIKI](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki). Lastly, Jeanette Mumford also has a series of Youtube videos for [FSL for task MRI](https://www.youtube.com/playlist?list=PLB2iAtgpI4YHlH4sno3i3CUjCofI38a-3).
+  - [Andy's Brain Book](https://andysbrainbook.readthedocs.io/en/latest/) - A tutorial online for beginners on how to perform fMRI analysis with FSL.
 
 - [Lukas Snoek](https://lukas-snoek.com/) developed a **tutorial series** for the research master's students of the University of Amsterdam to get **introduced to fMRI analysis and pattern-analysis** with this type of data. The courses are free and open-source. They contain **extensive computer labs/tutorials**. The purpose of this course is to teach you the basic concepts and methodology of functional MRI (fMRI) research. This is a great resource to get hands-on with fMRI analysis right away. They make use of Jupyter Notebooks (Python) and FSL. You can find the link [here](https://lukas-snoek.com/NI-edu/index.html)
 
