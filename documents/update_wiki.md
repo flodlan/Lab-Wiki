@@ -52,3 +52,17 @@ The lab is hosted by the Just the Docs template. This is just a template for cre
 Easy! If you are in doubt, you can always drop a message in the **MatterMost** channel dedicated to the wiki and ask other lab members if they would like to see this information in the wiki.
 
 Alternatively, make the request, and if the person responsible for the wiki does not think this information is suitable for the wiki, they will get in touch with you! 
+
+### How do I check whether my edits are leading to the changes I want?
+If you want to make big changes (such as adding a new page) and see how these would look on the wiki's website, you will need to do an extra couple of steps. 
+
+1. Open the forked repository on your own GitHub account
+2. On the top-right corner, click on the option that says `Settings`
+3. In the new page, you should have a sidebar on the left side. Click on the button that says `Pages` under `Code and Automatation`
+4. You will have at the start of the page the title `GitHub Pages`. Scroll down to the `Build and deployment` and on the toggle option under source click GitHub actions
+5. Wait around 10 minutes and refresh the page.
+6. You should now have your own link for the website being created from your fork. For every change you make, wait a couple of minutes and the website will udpate itself.
+
+If this all sounds too hard, check out this image with all the different steps. 
+
+
