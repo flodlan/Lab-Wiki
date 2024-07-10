@@ -63,6 +63,8 @@ If you want to make big changes (such as adding a new page) and see how these wo
 5. Wait around 10 minutes and refresh the page.
 6. You should now have your own link for the website being created from your fork. For every change you make, wait a couple of minutes and the website will udpate itself.
 
-If this all sounds too hard, check out this image with all the different steps. 
+If this all sounds too hard, check out this image with all the different steps (the important things you need to click are highlighted in red):
+
+![upd-wiki-pages](./images/upd-wiki-pages.png)
 
 
