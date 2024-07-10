@@ -1,6 +1,6 @@
 # Predictive Brain Lab Wiki
 
-Welcome to the Predictive Brain Lab Wiki! This repository serves as the central hub for all the documentation, protocols, and resources related to our lab's research and activities.
+Welcome to the Predictive Brain Lab Wiki! This repository serves as the central hub for all the documentation, protocols, and resources related to our lab's research and activities. The link to the website is: https://predictive-brain-lab.github.io/Lab-Wiki/
 
 If you are interested in learning more about the lab, please visit https://www.predictivebrainlab.com/
 
