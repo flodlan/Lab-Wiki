@@ -29,5 +29,6 @@ These can be a good start:
 
 - [A summary of assumptions and when to use these models](https://www.statstest.com/mixed-effects-model/)
 - [A tutorial in R](https://ourcodingclub.github.io/tutorials/mixed-models/)
+- [A Paper and Tutorial in R](https://journals.sagepub.com/doi/full/10.1177/2515245920960351)
 - [Best practices](https://www.sciencedirect.com/science/article/abs/pii/S0749596X20300061)
 - [Power calculations for mixed effects models](https://link.springer.com/article/10.3758/s13428-021-01546-0)
