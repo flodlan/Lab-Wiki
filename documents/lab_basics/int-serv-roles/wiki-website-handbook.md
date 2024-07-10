@@ -22,11 +22,11 @@ The management of the wiki should be relatively straightforward. The important t
 You will be responsible to:
 
 1. Update the knowledge contained
-  1. Adding input from other lab members in the forms of requests (in Github)
-  2. Adding information mentioned during any lab meeting that might be relevant
-  3. Filling a gap of knowledge on information that is useful for everyone at the lab
+    1. Adding input from other lab members in the forms of requests (in Github)
+    2. Adding information mentioned during any lab meeting that might be relevant
+    3. Filling a gap of knowledge on information that is useful for everyone at the lab
 
-2. Be sure that the page is still working and everyone in the lab (old and new members) have access to the information.
+2. Be sure that the page is still working and everyone in the lab (old and new members) has access to the information.
 
 It is recommended to set specific date(s) during the time you are responsible for the maintenance of the wiki to ensure all the information is still relevant. There are certain factors that might be changing at the insitute make certain pages obsolte. In order for the wiki not to die (like previous attempts) it is important to make this a useful resource. Hence, you should also:
 
