@@ -14,7 +14,7 @@ This [website](https://peterscarfe.com/ptbtutorials.html) contains a variety of 
 
 2. [PsychoPy](https://www.psychopy.org/) - free set of Pyhton functions to create psychological and neuroscience experiments. A few members of the lab are familiar with this software and can give help if needed. 
 The PsychoPy [website](https://psychopy.org/documentation.html) contains tutorials and open source code you can look at to get inspired.
-  1. This [link](https://www.socsci.ru.nl/wilberth/psychopy/00intro.html) contains a very nice tutorial to set you up to use PsychoPy from the SocSci of the RU
+    1. This [link](https://www.socsci.ru.nl/wilberth/psychopy/00intro.html) contains a very nice tutorial to set you up to use PsychoPy from the SocSci of the RU
 
 {: .note }
 > Before starting to code ANY experiment. Check the compatibility of the software you are planning to use with the Donders Institute computers. The neuroimaging laboratories do not support all software options
