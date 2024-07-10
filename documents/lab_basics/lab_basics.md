@@ -10,6 +10,6 @@ has_children: true
 
 If you are new to the lab, or have more general admin questions, this is the place to start. You can find a guide to the lab, guides for more general procedures and some useful links to Donders Institute resources.
 
-For a general introduction to our research group, you might want to look at our [lab handbook](https://drive.google.com/file/d/1KwMbSAT4MfGEZaZtAyrChnOH4KTHIkmy/view).
+For a general introduction to our research group, you might want to look at our [lab handbook](https://drive.google.com/file/d/1RMTpcPl8lwJ6Ozf3QIlTaehedsL_tSUC/view?usp=sharing).
 
 {: .fs-6 .fw-300 }
