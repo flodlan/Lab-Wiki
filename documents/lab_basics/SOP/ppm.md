@@ -19,7 +19,7 @@ Two ways to become familiar with PPM:
 Feeling intimidated about giving a PPM? No need to worry! The researchers in the audience are here to support you and help you improve your project, not to crticize your work! Donderians are genuinely interested on the research happening at the institute!
 
 **Presentation Tips:**
-* Use the General Lab Meeting to practice your presentation! These time slots are perfect to receive some valuab;e feedback from the group on your design, analyses, presentation structure, and (if you want) on your presentation skills! Moreover, the questions and comments you get from the group might also be informative of those that you can expect from the audience during the actual PPM.
+* Use the General Lab Meeting to practice your presentation! These time slots are perfect to receive some valuable feedback from the group on your design, analyses, presentation structure, and (if you want) on your presentation skills! Moreover, the questions and comments you get from the group might also be informative of those that you can expect from the audience during the actual PPM.
 * Schedule your practice session well in advance (at least a week before your real PPM), so you will have enough time to incorporate the feedback. You can find the organizer of the Group Meetings [here](https://docs.google.com/spreadsheets/d/1-p_r4GLCh4wok5BapZ6wtmsAPfmVzbRjLF9QH-F-mtI/edit?usp=sharing)
 * Take notes during your (practice) PPM or ask a group member to do so for you. This ensures you will caputre all the important and interest comments and suggestions people bring up during your presentation!
 
