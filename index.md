@@ -43,4 +43,4 @@ Do you have a question? Did you find outdated information? Do you have a resourc
 **See [here]({% link documents/update_wiki.md %}) on how to contribute to the wiki!**
 
 
-Lastly, this website was created using the template [JustTheDocs](https://github.com/just-the-docs/just-the-docs).
+##### `Lastly, this website was created using the template [JustTheDocs](https://github.com/just-the-docs/just-the-docs).`
